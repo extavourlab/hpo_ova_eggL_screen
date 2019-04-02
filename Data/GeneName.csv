@@ -1,0 +1,464 @@
+FbID	NAME	SYMBOL
+FBgn0000042	Actin 5C	Act5C
+FBgn0000043	Actin 42A	Act42A
+FBgn0000044	Actin 57B	Act57B
+FBgn0000046	Actin 87E	Act87E
+FBgn0000047	Actin 88F	Act88F
+FBgn0000097	anterior open	aop
+FBgn0000117	armadillo	arm
+FBgn0000119	arrow	arr
+FBgn0000163	bazooka	baz
+FBgn0000179	bifid	bi
+FBgn0000180	big brain	bib
+FBgn0000206	bride of sevenless	boss
+FBgn0000212	brahma	brm
+FBgn0000216	Bearded	Brd
+FBgn0000229	basket	bsk
+FBgn0000250	cactus	cact
+FBgn0000259	Casein kinase II beta subunit	CkIIbeta
+FBgn0000261	Catalase	Cat
+FBgn0000273	Protein kinase, cAMP-dependent, catalytic subunit 1	Pka-C1
+FBgn0000274	Protein kinase, cAMP-dependent, catalytic subunit 2	Pka-C2
+FBgn0000352	costa	cos
+FBgn0000382	corkscrew	csw
+FBgn0000405	Cyclin B	CycB
+FBgn0000463	Delta	Dl
+FBgn0000489	Protein kinase, cAMP-dependent, catalytic subunit 3	Pka-C3
+FBgn0000490	decapentaplegic	dpp
+FBgn0000499	dishevelled	dsh
+FBgn0000524	deltex	dx
+FBgn0000533	easter	ea
+FBgn0000547	echinoid	ed
+FBgn0000575	extra macrochaetae	emc
+FBgn0000591	Enhancer of split m8, helix-loop-helix	E(spl)m8-HLH
+FBgn0000606	even skipped	eve
+FBgn0000658	four-jointed	fj
+FBgn0000808	gastrulation-defective	gd
+FBgn0001075	fat	ft
+FBgn0001079	fused	fu
+FBgn0001085	frizzled	fz
+FBgn0001122	G protein alpha o subunit	Galphao
+FBgn0001137	gurken	grk
+FBgn0001139	groucho	gro
+FBgn0001169	Hairless	H
+FBgn0001235	homothorax	hth
+FBgn0001291	Jun-related antigen	Jra
+FBgn0001297	kayak	kay
+FBgn0001624	discs large 1	dlg1
+FBgn0001965	Son of sevenless	Sos
+FBgn0001990	weckle	wek
+FBgn0002121	lethal (2) giant larvae	l(2)gl
+FBgn0002174	-	CG5504
+FBgn0002413	discs overgrown	dco
+FBgn0002592	Enhancer of split m2, Bearded family member	E(spl)m2-BFM
+FBgn0002609	Enhancer of split m3, helix-loop-helix	E(spl)m3-HLH
+FBgn0002629	Enhancer of split m4, Bearded family member	E(spl)m4-BFM
+FBgn0002632	Enhancer of split m6, Bearded family member	E(spl)m6-BFM
+FBgn0002643	mastermind	mam
+FBgn0002732	Enhancer of split malpha, Bearded family member	E(spl)malpha-BFM
+FBgn0002734	Enhancer of split mdelta, helix-loop-helix	E(spl)mdelta-HLH
+FBgn0002735	Enhancer of split mgamma, helix-loop-helix	E(spl)mgamma-HLH
+FBgn0002736	mago nashi	mago
+FBgn0002926	nudel	ndl
+FBgn0002930	necrotic	nec
+FBgn0002945	naked cuticle	nkd
+FBgn0002973	numb	numb
+FBgn0003002	odd paired	opa
+FBgn0003048	pecanex	pcx
+FBgn0003067	Phosphoenolpyruvate carboxykinase 1	Pepck1
+FBgn0003079	Raf oncogene	Raf
+FBgn0003089	pipe	pip
+FBgn0003090	prickle	pk
+FBgn0003091	Protein C kinase 53E	Pkc53E
+FBgn0003118	pointed	pnt
+FBgn0003124	polo	polo
+FBgn0003169	punt	put
+FBgn0003204	raspberry	ras
+FBgn0003205	Ras oncogene at 85D	Ras85D
+FBgn0003256	rolled	rl
+FBgn0003295	roughoid	ru
+FBgn0003310	Star	S
+FBgn0003317	saxophone	sax
+FBgn0003345	scalloped	sd
+FBgn0003366	sevenless	sev
+FBgn0003371	shaggy	sgg
+FBgn0003390	shifted	shf
+FBgn0003396	schnurri	shn
+FBgn0003410	seven in absentia	sina
+FBgn0003430	sloppy paired 1	slp1
+FBgn0003444	smoothened	smo
+FBgn0003450	snake	snk
+FBgn0003463	short gastrulation	sog
+FBgn0003495	spatzle	spz
+FBgn0003502	Btk family kinase at 29A	Btk29A
+FBgn0003507	serpent	srp
+FBgn0003557	Suppressor of deltex	Su(dx)
+FBgn0003612	Suppressor of variegation 2-10	Su(var)2-10
+FBgn0003716	thickveins	tkv
+FBgn0003719	tolloid	tld
+FBgn0003720	tailless	tll
+FBgn0003731	Epidermal growth factor receptor	Egfr
+FBgn0003733	torso	tor
+FBgn0003865	twisted gastrulation	tsg
+FBgn0003866	teashirt	tsh
+FBgn0003867	torso-like	tsl
+FBgn0003882	tube	tub
+FBgn0003892	patched	ptc
+FBgn0003984	vein	vn
+FBgn0004003	windbeutel	wbl
+FBgn0004107	Cyclin-dependent kinase 2	Cdk2
+FBgn0004110	tinman	tin
+FBgn0004132	boca	boca
+FBgn0004177	microtubule star	mts
+FBgn0004197	Serrate	Ser
+FBgn0004360	Wnt oncogene analog 2	Wnt2
+FBgn0004390	Ras GTPase activating protein 1	RasGAP1
+FBgn0004567	sloppy paired 2	slp2
+FBgn0004569	argos	aos
+FBgn0004583	expanded	ex
+FBgn0004611	Phospholipase C at 21C	Plc21C
+FBgn0004635	rhomboid	rho
+FBgn0004638	downstream of receptor kinase	drk
+FBgn0004644	hedgehog	hh
+FBgn0004647	Notch	N
+FBgn0004784	inactivation no afterpotential C	inaC
+FBgn0004837	Suppressor of Hairless	Su(H)
+FBgn0004856	Bx42	Bx42
+FBgn0004858	elbow B	elB
+FBgn0004859	cubitus interruptus	ci
+FBgn0004864	hopscotch	hop
+FBgn0004889	twins	tws
+FBgn0004907	14-3-3zeta	14-3-3zeta
+FBgn0004956	unpaired 1	upd1
+FBgn0004957	porcupine	por
+FBgn0005198	gigas	gig
+FBgn0005355	Suppressor of fused	Su(fu)
+FBgn0005590	screw	scw
+FBgn0005672	spitz	spi
+FBgn0010014	Calcineurin B	CanB
+FBgn0010015	Calcineurin A1	CanA1
+FBgn0010109	deadpan	dpn
+FBgn0010194	Wnt oncogene analog 5	Wnt5
+FBgn0010213	Superoxide dismutase 2 (Mn)	Sod2
+FBgn0010269	Downstream of raf1	Dsor1
+FBgn0010303	hemipterous	hep
+FBgn0010315	Cyclin D	CycD
+FBgn0010333	Rac1	Rac1
+FBgn0010341	Cdc42	Cdc42
+FBgn0010379	Akt1	Akt1
+FBgn0010382	Cyclin E	CycE
+FBgn0010389	heartless	htl
+FBgn0010433	atonal	ato
+FBgn0010441	pelle	pll
+FBgn0010453	Wnt oncogene analog 4	Wnt4
+FBgn0010504	kermit	kermit
+FBgn0010583	dreadlocks	dock
+FBgn0010825	Grunge	Gug
+FBgn0010909	misshapen	msn
+FBgn0011202	diaphanous	dia
+FBgn0011236	ken and barbie	ken
+FBgn0011274	Dorsal-related immunity factor	Dif
+FBgn0011300	baboon	babo
+FBgn0011591	fringe	fng
+FBgn0011642	Zyxin	Zyx
+FBgn0011648	Mothers against dpp	Mad
+FBgn0011655	Medea	Med
+FBgn0011692	pavarotti	pav
+FBgn0011739	warts	wts
+FBgn0011817	nemo	nmo
+FBgn0011822	Pepsinogen C-like	Pgcl
+FBgn0011826	Protein phosphatase 2B at 14D	Pp2B-14D
+FBgn0014006	Apoptotic signal-regulating kinase 1	Ask1
+FBgn0014011	Rac2	Rac2
+FBgn0014018	Relish	Rel
+FBgn0014020	Rho1	Rho1
+FBgn0014135	branchless	bnl
+FBgn0014343	mirror	mirr
+FBgn0014388	sprouty	sty
+FBgn0015024	Casein kinase Ialpha	CkIalpha
+FBgn0015218	eukaryotic translation initiation factor 4E1	eIF4E1
+FBgn0015279	Pi3K92E	Pi3K92E
+FBgn0015295	SH2 ankyrin repeat kinase	Shark
+FBgn0015296	SHC-adaptor protein	Shc
+FBgn0015300	Suppressor of Stellate-like	Ssl
+FBgn0015379	dodo	dod
+FBgn0015399	kekkon 1	kek1
+FBgn0015402	kinase suppressor of ras	ksr
+FBgn0015509	Cullin 1	Cul1
+FBgn0015589	APC-like	Apc
+FBgn0015614	Calcineurin B2	CanB2
+FBgn0015625	Cyclin B3	CycB3
+FBgn0015765	p38a MAP kinase	p38a
+FBgn0015799	Retinoblastoma-family protein	Rbf
+FBgn0015805	Histone deacetylase 1	HDAC1
+FBgn0015838	Van Gogh	Vang
+FBgn0015905	asteroid	ast
+FBgn0016081	furry	fry
+FBgn0016131	Cyclin-dependent kinase 4	Cdk4
+FBgn0016797	frizzled 2	fz2
+FBgn0016917	Signal-transducer and activator of transcription protein at 92E	Stat92E
+FBgn0016977	split ends	spen
+FBgn0017572	Mo25	Mo25
+FBgn0020224	Cbl proto-oncogene	Cbl
+FBgn0020238	14-3-3epsilon	14-3-3epsilon
+FBgn0020248	stem cell tumor	stet
+FBgn0020251	sulfateless	sfl
+FBgn0020299	stumps	stumps
+FBgn0020386	Phosphoinositide-dependent kinase 1	Pdk1
+FBgn0020388	Gcn5 acetyltransferase	Gcn5
+FBgn0020493	Daughters against dpp	Dad
+FBgn0020496	C-terminal Binding Protein	CtBP
+FBgn0020622	Pi3K21B	Pi3K21B
+FBgn0020660	eukaryotic translation initiation factor 4B	eIF4B
+FBgn0020767	Sprouty-related protein with EVH-1 domain	Spred
+FBgn0021796	Target of rapamycin	Tor
+FBgn0021874	Notchless	Nle
+FBgn0022787	Helicase 89B	Hel89B
+FBgn0023001	melted	melt
+FBgn0023169	AMP-activated protein kinase alpha subunit	AMPKalpha
+FBgn0023441	fusilli	fus
+FBgn0023518	trithorax-related	trr
+FBgn0024194	rasp	rasp
+FBgn0024222	I-kappaB kinase beta	IKKbeta
+FBgn0024234	glass bottom boat	gbb
+FBgn0024248	chico	chico
+FBgn0024250	brinker	brk
+FBgn0024291	Sirtuin 1	Sirt1
+FBgn0024326	MAP kinase kinase 4	Mkk4
+FBgn0024329	Mekk1	Mekk1
+FBgn0024836	starry night	stan
+FBgn0024846	p38b MAP kinase	p38b
+FBgn0024913	Activin-beta	Actbeta
+FBgn0025574	Pellino	Pli
+FBgn0025637	SKP1-related A	SkpA
+FBgn0025638	Regulator of cullins 1a	Roc1a
+FBgn0025641	Dishevelled Associated Activator of Morphogenesis	DAAM
+FBgn0025777	homer	homer
+FBgn0025800	Smad on X	Smox
+FBgn0026060	Multiple inositol polyphosphate phosphatase 2	Mipp2
+FBgn0026136	Casein kinase II beta2 subunit	CkIIbeta2
+FBgn0026174	SKP1-related D	SkpD
+FBgn0026175	SKP1-related C	SkpC
+FBgn0026176	SKP1-related B	SkpB
+FBgn0026181	Rho kinase	Rok
+FBgn0026192	par-6	par-6
+FBgn0026250	eukaryotic translation initiation factor 1A	eIF1A
+FBgn0026252	moleskin	msk
+FBgn0026317	Tsc1	Tsc1
+FBgn0026320	Twin of m4	Tom
+FBgn0026323	TGF-beta activated kinase 1	Tak1
+FBgn0026369	Smad anchor for receptor activation	Sara
+FBgn0026371	Sak kinase	SAK
+FBgn0026379	Phosphatase and tensin homolog	Pten
+FBgn0026597	Axin	Axn
+FBgn0026598	Adenomatous polyposis coli 2	Apc2
+FBgn0026760	Tehao	Tehao
+FBgn0027342	frizzled 4	fz4
+FBgn0027343	frizzled 3	fz3
+FBgn0027363	Signal transducing adaptor molecule	Stam
+FBgn0027535	brother of tout-velu	botv
+FBgn0028436	ECSIT	ECSIT
+FBgn0028990	Serpin 27A	Spn27A
+FBgn0029006	SMAD specific E3 ubiquitin protein ligase	Smurf
+FBgn0029088	dispatched	disp
+FBgn0029095	arouser	aru
+FBgn0029175	sister of tout-velu	sotv
+FBgn0029840	raptor	raptor
+FBgn0029882	-	CG3226
+FBgn0030018	slipper	slpr
+FBgn0030310	Peptidoglycan recognition protein SA	PGRP-SA
+FBgn0030366	Ubiquitin-specific protease 7	Usp7
+FBgn0030530	Ajuba LIM protein	jub
+FBgn0030869	Suppressor of Cytokine Signaling at 16D	Socs16D
+FBgn0030904	unpaired 2	upd2
+FBgn0030941	wengen	wgn
+FBgn0030964	PDGF- and VEGF-related factor 1	Pvf1
+FBgn0031005	Heparan sulfate 3-O sulfotransferase-B	Hs3st-B
+FBgn0031006	rapamycin-insensitive companion of Tor	rictor
+FBgn0031030	Tao	Tao
+FBgn0031055	eye transformer	et
+FBgn0031074	SKP1-related E	SkpE
+FBgn0031441	-	CG9962
+FBgn0031450	Hepatocyte growth factor regulated tyrosine kinase substrate	Hrs
+FBgn0031458	anterior pharynx defective 1	aph-1
+FBgn0031463	Glucose-6-Phosphatase	G6P
+FBgn0031872	interference hedgehog	ihog
+FBgn0031888	PDGF- and VEGF-related factor 2	Pvf2
+FBgn0031902	Wnt oncogene analog 6	Wnt6
+FBgn0031903	Wnt oncogene analog 10	Wnt10
+FBgn0031959	spatzle 3	spz3
+FBgn0032006	PDGF- and VEGF-receptor related	Pvr
+FBgn0032061	-	CG9314
+FBgn0032230	lowfat	lft
+FBgn0032362	spatzle 4	spz4
+FBgn0033153	Growth arrest and DNA damage-inducible 45	Gadd45
+FBgn0033266	Suppressor of Cytokine Signaling at 44A	Socs44A
+FBgn0033272	Ras-related GTP binding C/D	RagC-D
+FBgn0033378	tsunagi	tsu
+FBgn0033402	Myd88	Myd88
+FBgn0033483	eiger	egr
+FBgn0033649	pyramus	pyr
+FBgn0033652	thisbe	ths
+FBgn0033791	Derailed 2	Drl-2
+FBgn0034328	Immune induced molecule 23	IM23
+FBgn0034356	Phosphoenolpyruvate carboxykinase 2	Pepck2
+FBgn0034863	SKP1-related F	SkpF
+FBgn0034904	-	CG15800
+FBgn0034970	yorkie	yki
+FBgn0035056	spatzle 6	spz6
+FBgn0035142	Homeodomain interacting protein kinase	Hipk
+FBgn0035379	spatzle 5	spz5
+FBgn0035709	eukaryotic translation initiation factor 4E4	eIF4E4
+FBgn0035719	target of wingless	tow
+FBgn0036046	Insulin-like peptide 2	Ilp2
+FBgn0036141	wntless	wls
+FBgn0036196	-	CG11658
+FBgn0036255	Autophagy-related 12	Atg12
+FBgn0036318	WW domain binding protein 2	Wbp2
+FBgn0036690	Insulin-like peptide 8	Ilp8
+FBgn0036827	-	CG6843
+FBgn0036974	eukaryotic translation release factor 1	eRF1
+FBgn0037007	-	CG5059
+FBgn0037218	auxilin	aux
+FBgn0037236	S-phase kinase-associated protein 2	Skp2
+FBgn0037248	spargel	srl
+FBgn0037325	-	CG12147
+FBgn0037351	Ribosomal protein L13A	RpL13A
+FBgn0037364	Rab23	Rab23
+FBgn0037647	Ras-related GTP binding A/B	RagA-B
+FBgn0037657	hyrax	hyx
+FBgn0037671	ATPase H+ transporting accessory protein 2	ATP6AP2
+FBgn0037679	Another Drosophila Unc-51-like kinase	Aduk
+FBgn0037834	Arginine methyltransferase 1	Art1
+FBgn0038134	wnt inhibitor of Dorsal	wntD
+FBgn0038167	Lkb1 kinase	Lkb1
+FBgn0038197	forkhead box, sub-group O	foxo
+FBgn0038390	Retinoblastoma-family protein 2	Rbf2
+FBgn0038539	Autophagy-related 8b	Atg8b
+FBgn0038755	Heparan sulfate 6-O-sulfotransferase	Hs6st
+FBgn0038965	mob as tumor suppressor	mats
+FBgn0039015	Tak1-like 2	Takl2
+FBgn0039044	p53	p53
+FBgn0039055	Ras association family member	Rassf
+FBgn0039102	Spatzle-Processing Enzyme	SPE
+FBgn0039234	Nicastrin	Nct
+FBgn0039532	Mig-2-like	Mtl
+FBgn0039622	eukaryotic translation initiation factor 4E6	eIF4E6
+FBgn0039709	Cadherin 99C	Cad99C
+FBgn0039734	Tace	Tace
+FBgn0039907	legless	lgs
+FBgn0040078	pontin	pont
+FBgn0040281	APP-like protein interacting protein 1	Aplip1
+FBgn0040291	Regulator of cullins 1b	Roc1b
+FBgn0040296	Ocho	Ocho
+FBgn0040388	brother of ihog	boi
+FBgn0040736	Immune induced molecule 3	IM3
+FBgn0041184	Suppressor of cytokine signaling at 36E	Socs36E
+FBgn0041191	Ras homolog enriched in brain	Rheb
+FBgn0041205	kenny	key
+FBgn0041604	dally-like	dlp
+FBgn0043364	cabut	cbt
+FBgn0043900	pygopus	pygo
+FBgn0043903	domeless	dome
+FBgn0044028	Notum	Notum
+FBgn0044046	Insulin-like peptide 7	Ilp7
+FBgn0044047	Insulin-like peptide 6	Ilp6
+FBgn0044048	Insulin-like peptide 5	Ilp5
+FBgn0044049	Insulin-like peptide 4	Ilp4
+FBgn0044050	Insulin-like peptide 3	Ilp3
+FBgn0044051	Insulin-like peptide 1	Ilp1
+FBgn0044323	Connector of kinase to AP-1	Cka
+FBgn0044817	Stellate 12D orphon	Ste12DOR
+FBgn0045035	telomere fusion	tefu
+FBgn0046332	gasket	gskt
+FBgn0046689	Tak1-like 1	Takl1
+FBgn0046692	Ste20-like kinase	Stlk
+FBgn0050476	aveugle	ave
+FBgn0051431	-	CG31431
+FBgn0052179	Keren	Krn
+FBgn0052672	Autophagy-related 8a	Atg8a
+FBgn0053100	eukaryotic translation initiation factor 4E homologous protein	eIF4EHP
+FBgn0053193	salvador	sav
+FBgn0053198	presenilin enhancer	pen-2
+FBgn0053207	pxb	pxb
+FBgn0053236	Ste:CG33236	Ste:CG33236
+FBgn0053237	Ste:CG33237	Ste:CG33237
+FBgn0053238	Ste:CG33238	Ste:CG33238
+FBgn0053239	Ste:CG33239	Ste:CG33239
+FBgn0053240	Ste:CG33240	Ste:CG33240
+FBgn0053241	Ste:CG33241	Ste:CG33241
+FBgn0053242	Ste:CG33242	Ste:CG33242
+FBgn0053243	Ste:CG33243	Ste:CG33243
+FBgn0053244	Ste:CG33244	Ste:CG33244
+FBgn0053245	Ste:CG33245	Ste:CG33245
+FBgn0053246	Ste:CG33246	Ste:CG33246
+FBgn0053247	Ste:CG33247	Ste:CG33247
+FBgn0053542	unpaired 3	upd3
+FBgn0067864	Patj	Patj
+FBgn0085407	PDGF- and VEGF-related factor 3	Pvf3
+FBgn0085432	pangolin	pan
+FBgn0086384	Merlin	Mer
+FBgn0086785	Vacuolar protein sorting 36	Vps36
+FBgn0087002	apolipophorin	apolpp
+FBgn0243512	puckered	puc
+FBgn0250823	gilgamesh	gish
+FBgn0259176	bunched	bun
+FBgn0259212	canoe	cno
+FBgn0259685	crumbs	crb
+FBgn0259794	sina homologue	sinah
+FBgn0259817	SteXh:CG42398	SteXh:CG42398
+FBgn0259984	kuzbanian	kuz
+FBgn0260439	Protein phosphatase 2A at 29B	Pp2A-29B
+FBgn0260632	dorsal	dl
+FBgn0260941	approximated	app
+FBgn0260945	Autophagy-related 1	Atg1
+FBgn0260972	alicorn	alc
+FBgn0261260	Megalin	mgl
+FBgn0261434	huckebein	hkb
+FBgn0261445	sugarless	sgl
+FBgn0261456	hippo	hpo
+FBgn0261524	licorne	lic
+FBgn0261526	Neurotrophin 1	NT1
+FBgn0261592	Ribosomal protein S6	RpS6
+FBgn0261602	Ribosomal protein L8	RpL8
+FBgn0261617	nejire	nej
+FBgn0261854	atypical protein kinase C	aPKC
+FBgn0261873	stardust	sdt
+FBgn0261885	osa	osa
+FBgn0261988	G protein-coupled receptor kinase 2	Gprk2
+FBgn0262029	dachs	d
+FBgn0262114	Ran-binding protein M	RanBPM
+FBgn0262127	kibra	kibra
+FBgn0262473	Toll	Tl
+FBgn0262582	capicua	cic
+FBgn0262614	polychaetoid	pyd
+FBgn0262656	Myc	Myc
+FBgn0262733	Src oncogene at 64B	Src64B
+FBgn0262738	no receptor potential A	norpA
+FBgn0262866	Ribosomal protein S6 kinase II	S6kII
+FBgn0263289	scribbled	scrib
+FBgn0263395	happyhour	hppy
+FBgn0263601	mind bomb 1	mib1
+FBgn0263930	division abnormally delayed	dally
+FBgn0263933	ebi	ebi
+FBgn0264270	Sex lethal	Sxl
+FBgn0264272	multiple wing hairs	mwh
+FBgn0264492	casein kinase IIalpha	CkIIalpha
+FBgn0264607	Calcium/calmodulin-dependent protein kinase II	CaMKII
+FBgn0264691	Lst8	Lst8
+FBgn0264959	Src oncogene at 42A	Src42A
+FBgn0264975	Neuroglian	Nrg
+FBgn0265089	eukaryotic translation initiation factor 4E3	eIF4E3
+FBgn0265464	TNF-receptor-associated factor 6	Traf6
+FBgn0265778	PDZ domain-containing guanine nucleotide exchange factor	PDZ-GEF
+FBgn0265974	tout-velu	ttv
+FBgn0265998	Darkener of apricot	Doa
+FBgn0266411	similar	sima
+FBgn0283472	Ribosomal protein S6 kinase	S6k
+FBgn0283499	Insulin-like receptor	InR
+FBgn0284084	wingless	wg
+FBgn0284247	dachsous	ds
+FBgn0284421	Presenilin	Psn
+FBgn0285896	breathless	btl
+FBgn0285955	crossveinless c	cv-c
+FBgn0286070	connector enhancer of ksr	cnk
