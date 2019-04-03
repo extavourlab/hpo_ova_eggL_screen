@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="Zabs" attr.type="double" for="node" id="d3"/>
+<key attr.name="Z" attr.type="double" for="node" id="d2"/>
+<key attr.name="Seed" attr.type="string" for="node" id="d1"/>
+<key attr.name="label" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="FBgn0261617">
+  <data key="d0">nej</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-10.698274396000478</data>
+  <data key="d3">10.698274396000478</data>
+</node>
+<node id="FBgn0029175">
+  <data key="d0">sotv</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-14.142135623730951</data>
+  <data key="d3">14.142135623730951</data>
+</node>
+<node id="FBgn0264270">
+  <data key="d0">Sxl</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-14.142135623730951</data>
+  <data key="d3">14.142135623730951</data>
+</node>
+<node id="FBgn0021796">
+  <data key="d0">Tor</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-11.55324629703704</data>
+  <data key="d3">11.55324629703704</data>
+</node>
+<node id="FBgn0003090">
+  <data key="d0">pk</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-12.177746096876879</data>
+  <data key="d3">12.177746096876879</data>
+</node>
+<node id="FBgn0003612">
+  <data key="d0">Su(var)2-10</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-13.67126057944227</data>
+  <data key="d3">13.67126057944227</data>
+</node>
+<node id="FBgn0010379">
+  <data key="d0">Akt1</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-13.435028842544401</data>
+  <data key="d3">13.435028842544401</data>
+</node>
+<node id="FBgn0261592">
+  <data key="d0">RpS6</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-4.737435377304352</data>
+  <data key="d3">4.737435377304352</data>
+</node>
+<node id="FBgn0023172">
+  <data key="d0">RhoGEF2</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0004177">
+  <data key="d0">mts</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-14.762975324080546</data>
+  <data key="d3">14.762975324080546</data>
+</node>
+<node id="FBgn0024846">
+  <data key="d0">p38b</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0000352">
+  <data key="d0">cos</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-14.142135623730951</data>
+  <data key="d3">14.142135623730951</data>
+</node>
+<node id="FBgn0001965">
+  <data key="d0">Sos</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-4.638153208019167</data>
+  <data key="d3">4.638153208019167</data>
+</node>
+<node id="FBgn0005198">
+  <data key="d0">gig</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0000259">
+  <data key="d0">CkIIbeta</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-2.733135794598665</data>
+  <data key="d3">2.733135794598665</data>
+</node>
+<node id="FBgn0003892">
+  <data key="d0">ptc</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-12.97640616625588</data>
+  <data key="d3">12.97640616625588</data>
+</node>
+<node id="FBgn0001624">
+  <data key="d0">dlg1</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-13.67126057944227</data>
+  <data key="d3">13.67126057944227</data>
+</node>
+<node id="FBgn0015268">
+  <data key="d0">Nap1</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0004647">
+  <data key="d0">N</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-8.095287924954139</data>
+  <data key="d3">8.095287924954139</data>
+</node>
+<node id="FBgn0003124">
+  <data key="d0">polo</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-14.129594226926377</data>
+  <data key="d3">14.129594226926377</data>
+</node>
+<node id="FBgn0015282">
+  <data key="d0">Rpt2</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0000499">
+  <data key="d0">dsh</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0004856">
+  <data key="d0">Bx42</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-4.3487067042972685</data>
+  <data key="d3">4.3487067042972685</data>
+</node>
+<node id="FBgn0014179">
+  <data key="d0">gcm</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0010825">
+  <data key="d0">Gug</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-4.490128060534577</data>
+  <data key="d3">4.490128060534577</data>
+</node>
+<node id="FBgn0014020">
+  <data key="d0">Rho1</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-14.142135623730951</data>
+  <data key="d3">14.142135623730951</data>
+</node>
+<node id="FBgn0036974">
+  <data key="d0">eRF1</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-7.3924815777716235</data>
+  <data key="d3">7.3924815777716235</data>
+</node>
+<node id="FBgn0020496">
+  <data key="d0">CtBP</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-6.305803799666508</data>
+  <data key="d3">6.305803799666508</data>
+</node>
+<node id="FBgn0023518">
+  <data key="d0">trr</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-5.79827560572969</data>
+  <data key="d3">5.79827560572969</data>
+</node>
+<node id="FBgn0021874">
+  <data key="d0">Nle</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-13.67126057944227</data>
+  <data key="d3">13.67126057944227</data>
+</node>
+<node id="FBgn0086785">
+  <data key="d0">Vps36</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-9.73516940171334</data>
+  <data key="d3">9.73516940171334</data>
+</node>
+<node id="FBgn0030904">
+  <data key="d0">upd2</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-4.340273608886885</data>
+  <data key="d3">4.340273608886885</data>
+</node>
+<node id="FBgn0025674">
+  <data key="d0">CycK</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0000635">
+  <data key="d0">Fas2</data>
+  <data key="d2">0.0</data>
+  <data key="d1">Connector_Unknown</data>
+</node>
+<node id="FBgn0010909">
+  <data key="d0">msn</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-6.869497798238238</data>
+  <data key="d3">6.869497798238238</data>
+</node>
+<node id="FBgn0003444">
+  <data key="d0">smo</data>
+  <data key="d1">Connector_Unknown</data>
+  <data key="d2">0.0</data>
+  <data key="d3">2.212538500389395</data>
+</node>
+<node id="FBgn0000117">
+  <data key="d0">arm</data>
+  <data key="d1">Seed_Negative</data>
+  <data key="d2">-4.714973488790789</data>
+  <data key="d3">4.714973488790789</data>
+</node>
+<edge source="FBgn0261617" target="FBgn0000117"/>
+<edge source="FBgn0261617" target="FBgn0023518"/>
+<edge source="FBgn0261617" target="FBgn0014179"/>
+<edge source="FBgn0261617" target="FBgn0025674"/>
+<edge source="FBgn0029175" target="FBgn0015282"/>
+<edge source="FBgn0264270" target="FBgn0000352"/>
+<edge source="FBgn0264270" target="FBgn0003444"/>
+<edge source="FBgn0264270" target="FBgn0003892"/>
+<edge source="FBgn0264270" target="FBgn0014179"/>
+<edge source="FBgn0021796" target="FBgn0005198"/>
+<edge source="FBgn0003090" target="FBgn0000499"/>
+<edge source="FBgn0003612" target="FBgn0014179"/>
+<edge source="FBgn0010379" target="FBgn0015282"/>
+<edge source="FBgn0010379" target="FBgn0025674"/>
+<edge source="FBgn0010379" target="FBgn0021874"/>
+<edge source="FBgn0010379" target="FBgn0015268"/>
+<edge source="FBgn0261592" target="FBgn0005198"/>
+<edge source="FBgn0261592" target="FBgn0000635"/>
+<edge source="FBgn0023172" target="FBgn0000499"/>
+<edge source="FBgn0023172" target="FBgn0005198"/>
+<edge source="FBgn0023172" target="FBgn0014020"/>
+<edge source="FBgn0023172" target="FBgn0000117"/>
+<edge source="FBgn0004177" target="FBgn0003444"/>
+<edge source="FBgn0004177" target="FBgn0024846"/>
+<edge source="FBgn0004177" target="FBgn0015268"/>
+<edge source="FBgn0004177" target="FBgn0014179"/>
+<edge source="FBgn0004177" target="FBgn0015282"/>
+<edge source="FBgn0024846" target="FBgn0036974"/>
+<edge source="FBgn0000352" target="FBgn0003892"/>
+<edge source="FBgn0000352" target="FBgn0003444"/>
+<edge source="FBgn0001965" target="FBgn0000635"/>
+<edge source="FBgn0005198" target="FBgn0015268"/>
+<edge source="FBgn0005198" target="FBgn0010909"/>
+<edge source="FBgn0000259" target="FBgn0025674"/>
+<edge source="FBgn0003892" target="FBgn0003444"/>
+<edge source="FBgn0003892" target="FBgn0025674"/>
+<edge source="FBgn0001624" target="FBgn0000499"/>
+<edge source="FBgn0001624" target="FBgn0000635"/>
+<edge source="FBgn0015268" target="FBgn0004856"/>
+<edge source="FBgn0015268" target="FBgn0020496"/>
+<edge source="FBgn0015268" target="FBgn0003124"/>
+<edge source="FBgn0004647" target="FBgn0000117"/>
+<edge source="FBgn0004647" target="FBgn0000499"/>
+<edge source="FBgn0004647" target="FBgn0003124"/>
+<edge source="FBgn0004647" target="FBgn0010909"/>
+<edge source="FBgn0004647" target="FBgn0010825"/>
+<edge source="FBgn0015282" target="FBgn0000635"/>
+<edge source="FBgn0000499" target="FBgn0000117"/>
+<edge source="FBgn0010825" target="FBgn0000635"/>
+<edge source="FBgn0086785" target="FBgn0003444"/>
+</graph></graphml>
