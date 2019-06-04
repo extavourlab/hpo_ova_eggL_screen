@@ -1,0 +1,219 @@
+Condition	BL#	Repeat	BATCH	Day 1	Day 2 	Day 3	Day 4 	Day 5	FbID	Notes
+CG8075	BL# 34354	1	3	86	96	33	14	31	FBgn0015838	
+CG9374	BL# 34362	1	3	152	60	40	42	10	FBgn0038167	
+OR		1	3	53	54	21	29	18	Control	
+OR		2	3	8	54	10	43	5	Control	
+OR		3	3	32	39	30	12	8	Control	
+OR		4	3	53	41	19	15	18	Control	
+Tj>HpoRNAi		1	3	94	82	19	19	24	Control	
+Tj>HpoRNAi		2	3	77	20	13	4	49	Control	
+Tj>HpoRNAi		3	3	62	46	33	1	45	Control	
+Tj>HpoRNAi		4	3	71	3	64	22	22	Control	
+Tj>HpoRNAi		5	3	72	88	36	26	30	Control	
+Tj>HpoRNAi,Bab1RNAi			3	32	47	2	26	40	Control	
+Tj>HpoRNAi,Bab2RNAi	BL# 35720		3	121	80	17	12	4	Control	
+Tj>HpoRNAi,Hpo			3	0	0	0	0	0	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614		3	90	72	15	25	59	Control	
+Tj>HpoRNAi,YkiRNAi			3	0	0	0	0	1	Control	
+CG6667	BL# 34938	1	4	43	91	25	8	24	FBgn0260632	
+OR		1	4	47	36	28	21	20	Control	
+OR		2	4	50	46	9	18	22	Control	
+OR		3	4	31	52	19	23	16	Control	
+OR		4	4	56	29	31	41	18	Control	
+Tj>HpoRNAi		1	4	122	70	57	30	5	Control	
+Tj>HpoRNAi		2	4	74	48	64	27	7	Control	
+Tj>HpoRNAi		3	4	88	65	21	4	56	Control	
+Tj>HpoRNAi		4	4	70	39	41	35	4	Control	
+Tj>HpoRNAi		5	4	89	41	42	24	31	Control	
+Tj>HpoRNAi,Bab1RNAi		1	4	80	86	39	13	21	Control	
+Tj>HpoRNAi,Bab2RNAi	BL# 35720	1	4	101	57	20	5	18	Control	
+Tj>HpoRNAi,Hpo		1	4	0	0	0	0	0	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	4	85	62	38	11	35	Control	
+Tj>HpoRNAi,Yki		1	4	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	4	2	0	0	0	0	Control	
+CG18361	BL# 31307	1	5	136	17	65	24	25	FBgn0000499	
+CG16738	BL# 34633	1	5	138	53	83	39	45	FBgn0003430	
+CG33336	BL# 41638	1	5	33	175	60	27	49	FBgn0039044	
+CG42840	BL# 33754	1	5	0	60	9	20	13	FBgn0262029	
+OR		1	5	2	35	22	18	21	Control	
+OR		2	5	11	34	25	14	19	Control	
+OR		3	5	61	48	36	17	12	Control	
+Tj>HpoRNAi		1	5	24	40	54	13	29	Control	
+Tj>HpoRNAi		2	5	55	45	41	27	24	Control	
+Tj>HpoRNAi		3	5	60	54	28	31	31	Control	
+Tj>HpoRNAi		4	5	23	90	71	52	6	Control	
+Tj>HpoRNAi		5	5	95	4	78	12	27	Control	
+Tj>HpoRNAi,Bab1RNAi		1	5	51	24	57	28	26	Control	
+Tj>HpoRNAi,Bab2RNAi	BL# 35720	1	5	112	26	26	42	20	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	5	85	85	39	18	27	Control	
+Tj>HpoRNAi,Yki		1	5	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	5	0	0	0	0	0	Control	
+CG6033		1	6	64	44	11	3	1	FBgn0004638	
+CG15110		1	6	77	61	46	11	16	FBgn0027535	
+OR		1	6	44	32	5	16	2	Control	
+OR		2	6	52	41	27	3	23	Control	
+OR		3	6	84	45	29	1	9	Control	
+OR		4	6	56	51	1	35	1	Control	
+Tj>HpoRNAi		1	6	91	47	27	12	31	Control	
+Tj>HpoRNAi		2	6	42	71	27	11	31	Control	
+Tj>HpoRNAi		3	6	68	40	16	12	13	Control	
+Tj>HpoRNAi		4	6	21	85	42	14	15	Control	
+Tj>HpoRNAi		5	6	33	42	3	22	14	Control	
+Tj>HpoRNAi,Bab1RNAi		1	6	48	33	38	26	21	Control	
+Tj>HpoRNAi,Bab2RNAi	BL# 35720	1	6	146	53	43	19	3	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	6	135	24	70	32	5	Control	
+Tj>HpoRNAi,YkiRNAi		1	6	0	0	0	0	0	Control	
+CG11561	BL# 43134	1	7	14	7	25	33	14	FBgn0003444	
+OR		1	7	47	24	29	2	22	Control	
+OR		2	7	106	34	12	21	7	Control	
+OR		3	7	40	42	17	20	13	Control	
+Tj>HpoRNAi		1	7	88	44	21	21	23	Control	
+Tj>HpoRNAi		2	7	82	40	31	29	16	Control	
+Tj>HpoRNAi		3	7	86	36	28	26	23	Control	
+Tj>HpoRNAi		4	7	94	48	40	21	8	Control	
+Tj>HpoRNAi		5	7	69	44	16	17	6	Control	
+Tj>HpoRNAi,Bab1RNAi		1	7	97	83	32	28	20	Control	
+Tj>HpoRNAi,Hpo		1	7	0	0	0	3	1	Control	
+Tj>HpoRNAi,HpoRNAi	BL #33614	1	7	95	3	2	49	26	Control	
+Tj>HpoRNAi,Yki		1	7	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	7	0	0	0	0	0	Control	
+CG16901	BL# 55169		10	178	96	26	20	28	FBgn0263396	
+CG5330	BL# 35445		10	138	53	35	22	18	FBgn0015268	
+CG5289	BL# 34795		10	0	0	0	0	0	FBgn0015282	
+CG4800	BL# 32911		10	39	20	11	6	8	FBgn0037874	
+CG2331	BL# 35608		10	100	58	33	32	45	FBgn0261014	
+OR		1	10	28	51	38	35	25	Control	
+OR		2	10	119	45	25	35	40	Control	
+OR		3	10	126	65	31	34	32	Control	
+OR		4	10	115	45	38	19	52	Control	
+Tj>HpoRNAi		1	10	131	43	32	46	29	Control	
+Tj>HpoRNAi		2	10	127	69	26	34	43	Control	
+Tj>HpoRNAi		3	10	158	29	44	37	46	Control	
+Tj>HpoRNAi		4	10	114	47	25	22	39	Control	
+Tj>HpoRNAi,Hpo		1	10	0	0	0	0	0	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	10	130	62	41	33	23	Control	
+Tj>HpoRNAi,Yki		1	10	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	10	0	0	0	0	0	Control	
+CG7393	BL# 35252		11	181	89	59	47	37	FBgn0024846	
+CG15218	BL# 34032		11	0	0	0	0	0	FBgn0025674	
+OR		1	11	108	54	40	40	13	Control	
+OR		2	11	112	64	56	37	21	Control	
+OR		3	11	114	60	34	34	16	Control	
+OR		4	11	176	64	44	44	24	Control	
+OR		5	11	123	77	66	41	31	Control	
+Tj>HpoRNAi		1	11	123	82	65	33	25	Control	
+Tj>HpoRNAi		2	11	170	98	61	41	20	Control	
+Tj>HpoRNAi		3	11	141	82	35	37	26	Control	
+Tj>HpoRNAi		4	11	172	112	78	39	31	Control	
+Tj>HpoRNAi		5	11	200	90	62	53	40	Control	
+Tj>HpoRNAi,Bab1RNAi		1	11	195	83	44	46	31	Control	
+Tj>HpoRNAi,Bab2RNAi	BL#35720	1	11	234	82	66	46	33	Control	
+Tj>HpoRNAi,Hpo		1	11	0	0	0	0	0	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	11	124	106	59	37	18	Control	
+Tj>HpoRNAi,Yki		1	11	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	11	0	0	0	0	0	Control	
+CG6975	BL# 34737		12	70	30	16	14	8	FBgn0005198	
+CG18801	BL# 62513		12	103	41	37	35	27	FBgn0041627	
+OR		1	12	49	43	44	26	31	Control	
+OR		2	12	37	28	38	21	11	Control	
+OR		3	12	31	42	27	33	25	Control	
+OR		4	12	95	54	21	17	20	Control	
+OR		5	12	20	75	29	52	23	Control	
+Tj>HpoRNAi		1	12	116	59	37	20	45	Control	
+Tj>HpoRNAi		2	12	75	41	31	27	27	Control	
+Tj>HpoRNAi		3	12	89	47	25	22	23	Control	
+Tj>HpoRNAi		4	12	142	89	33	31	26	Control	
+Tj>HpoRNAi		5	12	211	51	35	28	28	Control	
+Tj>HpoRNAi,Bab1RNAi		1	12	145	79	31	41	21	Control	
+Tj>HpoRNAi,Bab2RNAi	BL#35720	1	12	197	56	32	44	33	Control	
+Tj>HpoRNAi,Hpo		1	12	0	0	0	0	0	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	12	135	39	54	36	32	Control	
+Tj>HpoRNAi,Yki		1	12	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	12	0	0	0	0	0	Control	
+CG2199	BL# 63661		13	0	0	0	0	0	FBgn0035213	
+CG14226	BL# 34618		13	0	0	0	0	0	FBgn0043903	
+OR		1	13	86	52	28	25	30	Control	
+OR		2	13	106	43	45	24	23	Control	
+OR		3	13	44	34	25	20	26	Control	
+OR		4	13	64	25	29	15	14	Control	
+OR		5	13	96	34	34	24	16	Control	
+Tj>HpoRNAi		1	13	157	47	25	21	39	Control	
+Tj>HpoRNAi		2	13	139	47	32	33	36	Control	
+Tj>HpoRNAi		3	13	115	52	36	18	17	Control	
+Tj>HpoRNAi		4	13	91	27	25	10	44	Control	
+Tj>HpoRNAi		5	13	112	39	29	12	15	Control	
+Tj>HpoRNAi,Bab1RNAi		1	13	104	42	19	20	18	Control	
+Tj>HpoRNAi,Bab2RNAi	BL#35720	1	13	141	44	33	22	26	Control	
+Tj>HpoRNAi,Hpo		1	13	3	8	6	11	6	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	13	106	116	28	18	11	Control	
+Tj>HpoRNAi,Yki		1	13	0	11	1	6	4	Control	
+Tj>HpoRNAi,YkiRNAi		1	13	0	0	0	0	0	Control	
+CG1765	BL# 50712		14	157	95	66	38	25	FBgn0000546	
+Tj>HpoRNAi,Hpo		1	14	0	0	0	0	0	Control	
+Tj>HpoRNAi,Yki		1	14	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	14	0	0	0	0	0	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	14	124	106	59	37	18	Control	
+Tj>HpoRNAi,Bab1RNAi		1	14	195	83	44	46	31	Control	
+Tj>HpoRNAi,Bab2RNAi	BL#35720	1	14	234	82	66	46	33	Control	
+Tj>HpoRNAi		1	14	123	82	65	33	25	Control	
+Tj>HpoRNAi		2	14	170	98	61	41	20	Control	
+Tj>HpoRNAi		3	14	141	82	35	37	26	Control	
+Tj>HpoRNAi		4	14	172	112	78	39	31	Control	
+Tj>HpoRNAi		5	14	200	90	62	53	40	Control	
+OR		1	14	108	54	40	40	13	Control	
+OR		2	14	112	64	56	37	21	Control	
+OR		3	14	114	60	34	34	16	Control	
+OR		4	14	176	64	44	44	24	Control	
+OR		5	14	123	77	66	41	31	Control	
+CG3665	BL# 34084		15	158	54	62	29	24	FBgn0000635	Connectors April 1st 2019
+CG8409	BL# 33400		15	57	28	13	6	0	FBgn0003607	Connectors April 1st 2019
+CG8402	BL# 57307		15	190	69	46	39	16	FBgn0005777	Connectors April 1st 2019
+CG18405	BL# 34320		15	202	65	61	28	26	FBgn0011259	Connectors April 1st 2019
+CG4254	BL# 65055		15	0	0	0	0	0	FBgn0011726	Connectors April 1st 2019
+CG12245	BL# 42889		15	202	117	78	51	56	FBgn0014179	Connectors April 1st 2019
+CG4257	BL# 33637		15	0	0	0	0	0	FBgn0016917	Connectors April 1st 2019
+CG3433	BL# 55318		15	147	87	44	42	22	FBgn0021944	Connectors April 1st 2019
+CG9635	BL# 34643		15	129	48	50	49	42	FBgn0023172	Connectors April 1st 2019
+CG3630	BL# 65945		15	0	0	0	0	0	FBgn0023540	Connectors April 1st 2019
+CG31811	BL# 31228		15	144	78	52	25	5	FBgn0028509	Connectors April 1st 2019
+CG2272	BL# 41605		15	157	74	42	22	22	FBgn0030018	Connectors April 1st 2019
+CG15436	BL# 57867		15	187	82	70	36	28	FBgn0031610	Connectors April 1st 2019
+CG17498	BL# 44430		15	54	39	36	33	4	FBgn0035640	Connectors April 1st 2019
+CG6233	BL# 41823		15	0	0	0	0	0	FBgn0036136	Connectors April 1st 2019
+CG7285	BL# 62372		15	212	74	68	42	36	FBgn0036790	Connectors April 1st 2019
+CG7012	BL# 57497		15	172	54	59	44	18	FBgn0039234	Connectors April 1st 2019
+CG4003	BL# 50972		15	202	104	90	38	64	FBgn0040078	Connectors April 1st 2019
+OR		1	15	176	52	60	30	31	Control	
+OR		2	15	124	38	30	12	23	Control	
+OR		3	15	138	55	44	20	43	Control	
+OR		5	15	177	56	50	30	41	Control	
+Tj>HpoRNAi		1	15	171	62	42	49	27	Control	
+Tj>HpoRNAi		2	15	135	93	61	29	24	Control	
+Tj>HpoRNAi		3	15	192	81	58	41	19	Control	
+Tj>HpoRNAi		4	15	183	53	91	39	6	Control	
+Tj>HpoRNAi		5	15	134	52	50	34	34	Control	
+Tj>HpoRNAi,Bab1RNAi		1	15	181	107	80	41	23	Control	
+Tj>HpoRNAi,Bab2RNAi	BL#35720	1	15	181	66	43	31	20	Control	
+Tj>HpoRNAi,Hpo		1	15	0	0	0	0	0	Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	15	133	96	28	50	7	Control	
+Tj>HpoRNAi,Yki		1	15	0	0	0	0	0	Control	
+Tj>HpoRNAi,YkiRNAi		1	15	0	0	0	0	0	Control	
+CG8114	BL# 36841		16						FBgn0003041	Connectors April 1st 2019
+CG12131	CG12131		16						FBgn0027619	Connectors April 1st 2019
+CG31212	BL# 37473		16						FBgn0086613	Connectors April 1st 2019
+OR		1	16						Control	
+OR		2	16						Control	
+OR		3	16						Control	
+OR		4	16						Control	
+OR		5	16						Control	
+Tj>HpoRNAi		1	16						Control	
+Tj>HpoRNAi		2	16						Control	
+Tj>HpoRNAi		3	16						Control	
+Tj>HpoRNAi		4	16						Control	
+Tj>HpoRNAi		5	16						Control	
+Tj>HpoRNAi,Bab1RNAi		1	16						Control	
+Tj>HpoRNAi,Bab2RNAi	BL#35720	1	16						Control	
+Tj>HpoRNAi,Hpo		1	16						Control	
+Tj>HpoRNAi,HpoRNAi	BL# 33614	1	16						Control	
+Tj>HpoRNAi,Yki		1	16						Control	
+Tj>HpoRNAi,YkiRNAi		1	16						Control	
