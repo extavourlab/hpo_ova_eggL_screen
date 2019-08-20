@@ -17,7 +17,7 @@
    id="svg324750"
    sodipodi:docname="FigS3.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/lblondel/Documents/Harvard/ExtavourLab/collaborations/Tarun_ovaries/Paper/Figures/FigS3.png"
+   inkscape:export-filename="/home/lblondel/Documents/Harvard/ExtavourLab/collaborations/tarun/hpo_ova_eggL_screen/Paper/Figures/FigS3.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -1637,9 +1637,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6782959"
-     inkscape:cx="520.9476"
-     inkscape:cy="556.19717"
+     inkscape:zoom="1.3353951"
+     inkscape:cx="378.08408"
+     inkscape:cy="904.67991"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1660,7 +1660,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1688,15 +1688,15 @@
        transform="matrix(0.35277778,0,0,0.35277778,13.210934,221.54)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="31.026075"
-       y="77.254295"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="31.717934"
+       y="77.099075"
        id="text344632"><tspan
          sodipodi:role="line"
          id="tspan344630"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="31.026075"
-         y="77.254295">Core</tspan></text>
+         style="font-size:4.23333311px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;"
+         x="31.717934"
+         y="77.099075">Core</tspan></text>
     <g
        id="patch_13"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -6902,14 +6902,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="70.911629"
-       y="76.83696"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="73.080788"
+       y="76.741356"
        id="text344632-0-7"><tspan
          sodipodi:role="line"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="70.911629"
-         y="76.83696"
+         style="font-size:4.23333311px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;"
+         x="73.080788"
+         y="76.741356"
          id="tspan349337-5">HpoRNAi Ova#</tspan></text>
     <path
        inkscape:connector-curvature="0"
@@ -8588,36 +8588,36 @@
          y="287.76605">Average shortest path of Largest Connected Component</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="121.37263"
-       y="76.790039"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="136.12956"
+       y="76.701141"
        id="text344632-0-7-6"><tspan
          sodipodi:role="line"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="121.37263"
-         y="76.790039"
-         id="tspan349337-5-7">HpoRNAi EggL</tspan></text>
+         style="font-size:4.23333311px;line-height:125%;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;"
+         x="136.12956"
+         y="76.701141"
+         id="tspan21969">HpoRNAi Egg Laying</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="181.3999"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="176.86292"
        y="76.701141"
        id="text344632-0-7-6-5"><tspan
          sodipodi:role="line"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="181.3999"
+         style="font-size:4.23333311px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;"
+         x="176.86292"
          y="76.701141"
-         id="tspan349337-5-7-9">EggL</tspan></text>
+         id="tspan349337-5-7-9">Egg Laying</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="97.096352"
-       y="66.893188"
+       y="69.539024"
        id="text344632-0-7-8"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
          x="97.096352"
-         y="66.893188"
+         y="69.539024"
          id="tspan349337-5-9">Modules</tspan></text>
     <g
        id="g368964"
@@ -8644,7 +8644,7 @@
           <path
              inkscape:connector-curvature="0"
              d="m 334.74091,51.757656 h 22"
-             style="fill:none;stroke:#b9b9b9;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             style="fill:none;stroke:#b9b9b9;stroke-width:2.83464565;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
              id="path341633" />
         </g>
         <g
@@ -8654,7 +8654,7 @@
           <path
              inkscape:connector-curvature="0"
              d="m 334.74091,67.580469 h 22"
-             style="fill:none;stroke:#f08080;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+             style="fill:none;stroke:#f08080;stroke-width:2.83464565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
              id="path341699" />
         </g>
         <g
@@ -8664,7 +8664,7 @@
           <path
              inkscape:connector-curvature="0"
              d="m 334.74091,83.403281 h 22"
-             style="fill:none;stroke:#808080;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+             style="fill:none;stroke:#808080;stroke-width:2.83464565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
              id="path341741" />
         </g>
         <g
@@ -8674,7 +8674,7 @@
           <path
              inkscape:connector-curvature="0"
              d="m 334.74091,99.226094 h 22"
-             style="fill:none;stroke:#8b0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+             style="fill:none;stroke:#8b0000;stroke-width:2.83464565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
              id="path341806" />
         </g>
         <text

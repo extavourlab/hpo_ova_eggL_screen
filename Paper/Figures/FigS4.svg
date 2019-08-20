@@ -17,7 +17,7 @@
    id="svg316979"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="FigS4.svg"
-   inkscape:export-filename="/home/lblondel/Documents/Harvard/ExtavourLab/collaborations/Tarun_ovaries/Paper/Figures/FigS4.png"
+   inkscape:export-filename="/home/lblondel/Documents/Harvard/ExtavourLab/collaborations/tarun/hpo_ova_eggL_screen/Paper/Figures/FigS4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -2127,9 +2127,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6782959"
-     inkscape:cx="518.1418"
-     inkscape:cy="549.63542"
+     inkscape:zoom="1.3353951"
+     inkscape:cx="417.64093"
+     inkscape:cy="475.96803"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2152,7 +2152,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3505,48 +3505,48 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="173.71201"
-       y="124.6842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="178.52318"
+       y="124.13107"
        id="text344632"><tspan
          sodipodi:role="line"
          id="tspan344630"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="173.71201"
-         y="124.6842">Core</tspan></text>
+         style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         x="178.52318"
+         y="124.13107">Core</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="27.564117"
-       y="124.26686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.608528"
+       y="124.13107"
        id="text344632-0-7"><tspan
          sodipodi:role="line"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="27.564117"
-         y="124.26686"
-         id="tspan349337-5">HpoRNAi Ova#</tspan></text>
+         style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         x="42.608528"
+         y="124.13107"
+         id="tspan349337-5">HpoRNAi Ovariole #</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="73.067375"
-       y="124.21996"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="87.838074"
+       y="124.13107"
        id="text344632-0-7-6"><tspan
          sodipodi:role="line"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="73.067375"
-         y="124.21996"
-         id="tspan349337-5-7">HpoRNAi EggL</tspan></text>
+         style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         x="87.838074"
+         y="124.13107"
+         id="tspan349337-5-7">HpoRNAi Egg Laying</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="128.1369"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="133.10703"
        y="124.13107"
        id="text344632-0-7-6-5"><tspan
          sodipodi:role="line"
-         style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-         x="128.1369"
+         style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+         x="133.10703"
          y="124.13107"
-         id="tspan349337-5-7-9">EggL</tspan></text>
+         id="tspan349337-5-7-9">Egg Laying</tspan></text>
     <g
        id="line2d_87"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -7057,14 +7057,14 @@
       <text
          id="text344632-0-7-6-7-6-8-2-7-3-5-9"
          y="250.69069"
-         x="6.0160513"
+         x="8.2181015"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan349337-5-7-6-2-11-5-9-4-1-1"
            y="250.69069"
-           x="6.0160513"
+           x="8.2181015"
            style="font-size:3.52777767px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-           sodipodi:role="line">SHH</tspan></text>
+           sodipodi:role="line">Hh</tspan></text>
       <text
          id="text344632-0-7-6-7-6-8-2-7-3-1-10-9"
          y="230.20985"
@@ -7216,14 +7216,14 @@
       <text
          id="text344632-0-7-6-7-6-8-2-7-3-5-9-9"
          y="250.69069"
-         x="6.0160513"
+         x="8.2181015"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan349337-5-7-6-2-11-5-9-4-1-1-2"
            y="250.69069"
-           x="6.0160513"
+           x="8.2181015"
            style="font-size:3.52777767px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-           sodipodi:role="line">SHH</tspan></text>
+           sodipodi:role="line">Hh</tspan></text>
       <text
          id="text344632-0-7-6-7-6-8-2-7-3-1-10-9-4"
          y="230.20985"
@@ -9035,14 +9035,14 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="14.539736"
+           x="16.741787"
            y="104.37596"
            id="text344632-0-7-6-7-6-8-2-7-3-5-9-9-5"><tspan
              sodipodi:role="line"
              style="font-size:3.52777767px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-             x="14.539736"
+             x="16.741787"
              y="104.37596"
-             id="tspan349337-5-7-6-2-11-5-9-4-1-1-2-0">SHH</tspan></text>
+             id="tspan349337-5-7-6-2-11-5-9-4-1-1-2-0">Hh</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -9112,36 +9112,36 @@
       </g>
       <text
          id="text344632-0-7-1"
-         y="51.566551"
-         x="94.837349"
+         y="51.472713"
+         x="109.8818"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan349337-5-1"
-           y="51.566551"
-           x="94.837349"
-           style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-           sodipodi:role="line">HpoRNAi Ova#</tspan></text>
+           y="51.472713"
+           x="109.8818"
+           style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+           sodipodi:role="line">HpoRNAi Ovariole #</tspan></text>
       <text
          id="text344632-0-7-6-5-8"
          y="51.472713"
-         x="166.20084"
+         x="171.17094"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan349337-5-7-9-5"
            y="51.472713"
-           x="166.20084"
-           style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
-           sodipodi:role="line">EggL</tspan></text>
+           x="171.17094"
+           style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+           sodipodi:role="line">Egg Laying</tspan></text>
       <text
          id="text344632-0-7-1-7"
-         y="52.519756"
-         x="27.849009"
+         y="51.472713"
+         x="48.672077"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan349337-5-1-8"
-           y="52.519756"
-           x="27.849009"
-           style="font-size:4.93888903px;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
+           y="51.472713"
+           x="48.672077"
+           style="font-size:4.58611107px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
            sodipodi:role="line">Selected candidates</tspan></text>
       <text
          xml:space="preserve"

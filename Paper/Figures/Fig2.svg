@@ -17,7 +17,7 @@
    id="svg26283"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Fig2.svg"
-   inkscape:export-filename="/home/lblondel/Documents/Harvard/ExtavourLab/collaborations/Tarun_ovaries/Paper/Figures/Fig2.png"
+   inkscape:export-filename="/home/lblondel/Documents/Harvard/ExtavourLab/collaborations/tarun/hpo_ova_eggL_screen/Paper/Figures/Fig2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -1370,9 +1370,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98209467"
-     inkscape:cx="91.956035"
-     inkscape:cy="257.98269"
+     inkscape:zoom="1.3458279"
+     inkscape:cx="310.28322"
+     inkscape:cy="379.63024"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6323,7 +6323,9 @@
              style="font-size:3.52777767px;line-height:125%;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
              x="145.92032"
              y="96.500458"
-             id="tspan461023-6">Egg Laying Zscore</tspan></text>
+             id="tspan461023-6">Egg Laying Z<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan64825">gene</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6340,7 +6342,9 @@
              style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
              x="-53.413193"
              y="110.38702"
-             id="tspan461023-0-8">Ovariole # Zscore</tspan></text>
+             id="tspan36537">Ovariole # Z<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan64823">gene</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -10797,7 +10801,9 @@
              style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
              x="54.695969"
              y="188.03146"
-             id="tspan461023">Egg Laying Zscore</tspan></text>
+             id="tspan461023">Egg Laying Z<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan64829">gene</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10814,7 +10820,9 @@
              style="font-size:3.52777767px;line-height:125%;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
              x="-144.93802"
              y="18.276815"
-             id="tspan461023-6-2">Egg Laying Zscore</tspan></text>
+             id="tspan461023-6-2">Egg Laying Z<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan64827">gene</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -15568,7 +15576,9 @@
              style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
              x="-53.286171"
              y="19.024704"
-             id="tspan461023-0">Ovariole # Zscore</tspan></text>
+             id="tspan461023-0">Ovariole # Z<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan64821">gene</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -15584,7 +15594,9 @@
              style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round"
              x="59.101669"
              y="95.80983"
-             id="tspan461023-60">Egg Laying Zscore</tspan></text>
+             id="tspan461023-60">Egg Laying Z<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan64819">gene</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -18538,7 +18550,9 @@
            x="181.94434"
            style="font-size:2.72693372px;text-align:center;text-anchor:middle;stroke-width:0.22724448px;stroke-linecap:butt;stroke-linejoin:round"
            id="tspan43807"
-           sodipodi:role="line">Zscore threshold</tspan></text>
+           sodipodi:role="line">Z<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan64831">gene</tspan> threshold</tspan></text>
       <use
          height="100%"
          width="100%"
