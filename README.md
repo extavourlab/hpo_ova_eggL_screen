@@ -1,5 +1,10 @@
-# hpo_ova_eggL_screen
+# ADD PAPER TITLE HERE
+ADD AUTHORS AND OTHER INFO HERE
 This repository holds all the code and data for the paper [NAME OF PAPER]
+
+## ADD ABSTRACT HERE
+
+All the analysis is done in Python 3 and is written in ipython notebooks. The code is to be executed in the order indicated in the filename (1 -> 2 -> 3 etc). 
 
 # Folder Structure
 
@@ -28,3 +33,4 @@ This repository holds all the code and data for the paper [NAME OF PAPER]
     ├── Modules_Table_2018_08.csv: Table summarizing the genes in each of the predicted modules.
 
 ```
+
