@@ -3,7 +3,7 @@ This repository holds all the code and data for the paper [NAME OF PAPER]
 
 # Folder Structure
 
-```bash
+```
 ├── Data
 │   ├── GeneName.csv: Table of gene names and symboles for all the genes tested and considered in this study.
 │   ├── PPIs/: All data regarding the PPI datasets.
