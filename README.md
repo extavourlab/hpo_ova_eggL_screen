@@ -9,7 +9,19 @@ This repository holds all the code and data for the paper **Topology-driven anal
 ## Abstract
 Understanding the genetic regulation of organ structure is a fundamental problem in developmental biology. Here, we use egg-producing structures of insect ovaries, called ovarioles, to deduce systems-level gene regulatory relationships from quantitative functional genetic analysis. We previously showed that Hippo signalling, a conserved regulator of animal organ size, regulates ovariole number in Drosophila melanogaster. To comprehensively determine how Hippo signalling interacts with other pathways in this regulation, we screened all identified signalling pathway genes, and identified Hpo-dependent and Hpo-independent signalling requirements. Network analysis of known protein-protein interactions among screen results identified independent gene regulatory modules regulating one or both of ovariole number and egg laying. These modules predicted involvement of previously uncharacterised genes with higher accuracy than the original candidate screen. This shows that network analysis combining functional genetic and large-scale interaction data can predict function of novel genes regulating development
 
+## Code
+
 All the analysis is done in Python 3 and is written in ipython notebooks. The code is to be executed in the order indicated in the filename (1 -> 2 -> 3 etc). 
+
+Dependencies: 
+
+* networkx 2.3
+* pandas 0.20.3
+* numpy 1.11.3
+* seaborn 0.9.0
+* matplotlib 3.0.0
+* scipy 1.1.0
+* progressbar 3.38.0
 
 ## Folder Structure
 
