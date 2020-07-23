@@ -14,10 +14,10 @@
 <key attr.name="MAPK" attr.type="long" for="node" id="d10"/>
 <key attr.name="VEGF" attr.type="long" for="node" id="d9"/>
 <key attr.name="FGF" attr.type="long" for="node" id="d8"/>
-<key attr.name="Toll" attr.type="long" for="node" id="d7"/>
+<key attr.name="Z" attr.type="double" for="node" id="d7"/>
 <key attr.name="JAK/STAT" attr.type="long" for="node" id="d6"/>
 <key attr.name="label" attr.type="string" for="node" id="d5"/>
-<key attr.name="Z" attr.type="double" for="node" id="d4"/>
+<key attr.name="Toll" attr.type="long" for="node" id="d4"/>
 <key attr.name="Notch" attr.type="long" for="node" id="d3"/>
 <key attr.name="Z_ova" attr.type="double" for="node" id="d2"/>
 <key attr.name="Z_fec" attr.type="double" for="node" id="d1"/>
@@ -25,16 +25,16 @@
 <graph edgedefault="undirected"><node id="FBgn0263289">
   <data key="d0">0</data>
   <data key="d1">9.600922395445838</data>
-  <data key="d2">1.4056126943650276</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">5.272276226003232</data>
+  <data key="d4">0</data>
   <data key="d5">scrib</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">5.272276226003232</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">1.4056126943650276</data>
   <data key="d12">0</data>
   <data key="d13">9.600922395445838</data>
   <data key="d14">0</data>
@@ -42,7 +42,7 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
@@ -50,16 +50,16 @@
 <node id="FBgn0003090">
   <data key="d0">0</data>
   <data key="d1">6.7036285967852045</data>
-  <data key="d2">12.177746096876879</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.83859563668945</data>
+  <data key="d4">0</data>
   <data key="d5">pk</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.83859563668945</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">12.177746096876879</data>
   <data key="d12">0</data>
   <data key="d13">12.177746096876879</data>
   <data key="d14">0</data>
@@ -75,16 +75,16 @@
 <node id="FBgn0004647">
   <data key="d0">0</data>
   <data key="d1">6.7036285967852045</data>
-  <data key="d2">8.095287924954139</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">6.802239826255182</data>
+  <data key="d4">0</data>
   <data key="d5">N</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">6.802239826255182</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">8.095287924954139</data>
   <data key="d12">0</data>
   <data key="d13">8.095287924954139</data>
   <data key="d14">0</data>
@@ -92,7 +92,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Receptor</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">5.607802957026203</data>
   <data key="d22">0</data>
@@ -100,16 +100,16 @@
 <node id="FBgn0262614">
   <data key="d0">0</data>
   <data key="d1">3.907779939967588</data>
-  <data key="d2">2.810249099279279</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.4479139300804564</data>
+  <data key="d4">0</data>
   <data key="d5">pyd</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.4479139300804564</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">2.810249099279279</data>
   <data key="d12">0</data>
   <data key="d13">2.810249099279279</data>
   <data key="d14">0</data>
@@ -117,49 +117,49 @@
   <data key="d16">1</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">0.6257127509945025</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0030530">
+<node id="FBgn0031610">
   <data key="d0">0</data>
-  <data key="d1">6.406130286276985</data>
-  <data key="d2">0.28632851181509855</data>
+  <data key="d1">1.5508040060520991</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">4.322378810693401</data>
-  <data key="d5">jub</data>
+  <data key="d4">0</data>
+  <data key="d5">CG15436</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.477130559638421</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.8698944866536662</data>
   <data key="d12">0</data>
-  <data key="d13">6.274677633988119</data>
+  <data key="d13">1.5508040060520991</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
-  <data key="d17">1</data>
+  <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">011</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
-  <data key="d21">6.274677633988119</data>
+  <data key="d21">6.750482159516831</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0010341">
   <data key="d0">0</data>
   <data key="d1">4.633510500247284</data>
-  <data key="d2">0.02602986471046382</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.42244777399465</data>
+  <data key="d4">0</data>
   <data key="d5">Cdc42</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.42244777399465</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.02602986471046382</data>
   <data key="d12">0</data>
   <data key="d13">5.607802957026203</data>
   <data key="d14">0</data>
@@ -167,7 +167,7 @@
   <data key="d16">1</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">101</data>
   <data key="d20">0</data>
   <data key="d21">5.607802957026203</data>
   <data key="d22">0</data>
@@ -175,16 +175,16 @@
 <node id="FBgn0261617">
   <data key="d0">1</data>
   <data key="d1">8.415321146690308</data>
-  <data key="d2">10.698274396000478</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">8.24046616657233</data>
+  <data key="d4">0</data>
   <data key="d5">nej</data>
   <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d7">8.24046616657233</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">10.698274396000478</data>
   <data key="d12">1</data>
   <data key="d13">10.698274396000478</data>
   <data key="d14">0</data>
@@ -200,16 +200,16 @@
 <node id="FBgn0025638">
   <data key="d0">1</data>
   <data key="d1">9.600922395445838</data>
-  <data key="d2">10.698274396000478</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.369830126548381</data>
+  <data key="d4">0</data>
   <data key="d5">Roc1a</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.369830126548381</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">10.698274396000478</data>
   <data key="d12">0</data>
   <data key="d13">9.600922395445838</data>
   <data key="d14">0</data>
@@ -217,7 +217,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">001</data>
   <data key="d20">1</data>
   <data key="d21">4.81029358819883</data>
   <data key="d22">1</data>
@@ -225,16 +225,16 @@
 <node id="FBgn0039102">
   <data key="d0">0</data>
   <data key="d1">8.415321146690308</data>
-  <data key="d2">10.125617372370284</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">7.7837440357531404</data>
+  <data key="d4">1</data>
   <data key="d5">SPE</data>
   <data key="d6">0</data>
-  <data key="d7">1</data>
+  <data key="d7">7.7837440357531404</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">10.125617372370284</data>
   <data key="d12">0</data>
   <data key="d13">8.415321146690308</data>
   <data key="d14">0</data>
@@ -242,7 +242,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
@@ -250,16 +250,16 @@
 <node id="FBgn0039044">
   <data key="d0">0</data>
   <data key="d1">4.667417938195616</data>
-  <data key="d2">0.09367496997597596</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">1.4892057807582697</data>
+  <data key="d4">0</data>
   <data key="d5">p53</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.4892057807582697</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.09367496997597596</data>
   <data key="d12">0</data>
   <data key="d13">0.10612562594483038</data>
   <data key="d14">0</data>
@@ -272,19 +272,44 @@
   <data key="d21">0.10612562594483038</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0086785">
-  <data key="d0">1</data>
-  <data key="d1">6.7036285967852045</data>
-  <data key="d2">9.73516940171334</data>
+<node id="FBgn0003430">
+  <data key="d0">0</data>
+  <data key="d1">5.1301930878750674</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">8.02440340496827</data>
-  <data key="d5">Vps36</data>
+  <data key="d4">0</data>
+  <data key="d5">slp1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.6318717813091435</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
+  <data key="d2">0.8485281374238569</data>
+  <data key="d12">0</data>
+  <data key="d13">5.1301930878750674</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">111</data>
+  <data key="d20">1</data>
+  <data key="d21">1.9168941186285058</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0086785">
+  <data key="d0">1</data>
+  <data key="d1">6.7036285967852045</data>
   <data key="d11">Seed_Negative</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Vps36</data>
+  <data key="d6">0</data>
+  <data key="d7">8.02440340496827</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">9.73516940171334</data>
   <data key="d12">0</data>
   <data key="d13">9.73516940171334</data>
   <data key="d14">0</data>
@@ -292,7 +317,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">7.634412216406263</data>
   <data key="d22">0</data>
@@ -300,16 +325,16 @@
 <node id="FBgn0261885">
   <data key="d0">0</data>
   <data key="d1">5.234845851366078</data>
-  <data key="d2">2.7591656593091276</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.399950626099594</data>
+  <data key="d4">0</data>
   <data key="d5">osa</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.399950626099594</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">2.7591656593091276</data>
   <data key="d12">0</data>
   <data key="d13">5.234845851366078</data>
   <data key="d14">0</data>
@@ -317,7 +342,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">010</data>
   <data key="d20">1</data>
   <data key="d21">2.2058403676235767</data>
   <data key="d22">0</data>
@@ -325,16 +350,16 @@
 <node id="FBgn0264270">
   <data key="d0">1</data>
   <data key="d1">6.7036285967852045</data>
-  <data key="d2">14.142135623730951</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">9.493392145640806</data>
+  <data key="d4">0</data>
   <data key="d5">Sxl</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">9.493392145640806</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">14.142135623730951</data>
   <data key="d12">0</data>
   <data key="d13">14.142135623730951</data>
   <data key="d14">0</data>
@@ -342,7 +367,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">7.634412216406263</data>
   <data key="d22">0</data>
@@ -350,16 +375,16 @@
 <node id="FBgn0024291">
   <data key="d0">0</data>
   <data key="d1">6.632357535824207</data>
-  <data key="d2">1.060660171779821</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.975062345970512</data>
+  <data key="d4">0</data>
   <data key="d5">Sirt1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.975062345970512</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">1.060660171779821</data>
   <data key="d12">1</data>
   <data key="d13">7.232169330307508</data>
   <data key="d14">0</data>
@@ -367,7 +392,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">011</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">7.232169330307508</data>
   <data key="d22">0</data>
@@ -375,16 +400,16 @@
 <node id="FBgn0015838">
   <data key="d0">0</data>
   <data key="d1">1.4460839406633683</data>
-  <data key="d2">1.1291384214278863</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">1.2911504428176823</data>
+  <data key="d4">0</data>
   <data key="d5">Vang</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.2911504428176823</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.1291384214278863</data>
   <data key="d12">0</data>
   <data key="d13">1.2982289663617923</data>
   <data key="d14">0</data>
@@ -392,7 +417,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">011</data>
   <data key="d20">1</data>
   <data key="d21">1.2982289663617923</data>
   <data key="d22">0</data>
@@ -400,16 +425,16 @@
 <node id="FBgn0014179">
   <data key="d0">0</data>
   <data key="d1">4.622004096469002</data>
-  <data key="d2">0.3011173223031934</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">3.093054143434052</data>
+  <data key="d4">0</data>
   <data key="d5">gcm</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.093054143434052</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.3011173223031934</data>
   <data key="d12">0</data>
   <data key="d13">0.30111732230319355</data>
   <data key="d14">0</data>
@@ -417,7 +442,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">101</data>
   <data key="d20">0</data>
   <data key="d21">4.35604101152996</data>
   <data key="d22">0</data>
@@ -425,16 +450,16 @@
 <node id="FBgn0003867">
   <data key="d0">0</data>
   <data key="d1">1.1444212681333652</data>
-  <data key="d2">2.330892363565146</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">1.9415626410561453</data>
+  <data key="d4">0</data>
   <data key="d5">tsl</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.9415626410561453</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">1</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">2.330892363565146</data>
   <data key="d12">0</data>
   <data key="d13">2.330892363565146</data>
   <data key="d14">0</data>
@@ -442,7 +467,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">2.3493742914699247</data>
   <data key="d22">0</data>
@@ -450,16 +475,16 @@
 <node id="FBgn0011274">
   <data key="d0">0</data>
   <data key="d1">5.613338599240155</data>
-  <data key="d2">0.7778174593052022</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">0.4131805968773115</data>
+  <data key="d4">1</data>
   <data key="d5">Dif</data>
   <data key="d6">0</data>
-  <data key="d7">1</data>
+  <data key="d7">0.4131805968773115</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.7778174593052022</data>
   <data key="d12">0</data>
   <data key="d13">5.613338599240155</data>
   <data key="d14">0</data>
@@ -467,7 +492,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">3.5959793493030183</data>
   <data key="d22">0</data>
@@ -475,16 +500,16 @@
 <node id="FBgn0015799">
   <data key="d0">0</data>
   <data key="d1">3.138578324678884</data>
-  <data key="d2">5.79827560572969</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">0.53048182850375</data>
+  <data key="d4">0</data>
   <data key="d5">Rbf</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.53048182850375</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">5.79827560572969</data>
   <data key="d12">0</data>
   <data key="d13">5.79827560572969</data>
   <data key="d14">0</data>
@@ -492,7 +517,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">011</data>
   <data key="d20">0</data>
   <data key="d21">1.0682517955395558</data>
   <data key="d22">1</data>
@@ -500,16 +525,16 @@
 <node id="FBgn0043903">
   <data key="d0">0</data>
   <data key="d1">2.696254563150708</data>
-  <data key="d2">12.908279862250627</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">7.6185838264688615</data>
+  <data key="d4">0</data>
   <data key="d5">dome</data>
   <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d7">7.6185838264688615</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">12.908279862250627</data>
   <data key="d12">0</data>
   <data key="d13">5.630507774707991</data>
   <data key="d14">0</data>
@@ -517,7 +542,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Receptor</data>
-  <data key="d19">010</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">7.2512170540052505</data>
   <data key="d22">0</data>
@@ -525,16 +550,16 @@
 <node id="FBgn0003124">
   <data key="d0">0</data>
   <data key="d1">7.85187048637467</data>
-  <data key="d2">14.129594226926377</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">12.132526617175929</data>
+  <data key="d4">0</data>
   <data key="d5">polo</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">12.132526617175929</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">14.129594226926377</data>
   <data key="d12">1</data>
   <data key="d13">14.129594226926377</data>
   <data key="d14">0</data>
@@ -542,7 +567,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">14.416115138226738</data>
   <data key="d22">0</data>
@@ -550,16 +575,16 @@
 <node id="FBgn0033266">
   <data key="d0">0</data>
   <data key="d1">1.8882319081323842</data>
-  <data key="d2">2.9010171750531866</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">1.9429937104888253</data>
+  <data key="d4">0</data>
   <data key="d5">Socs44A</data>
   <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d7">1.9429937104888253</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">2.9010171750531866</data>
   <data key="d12">0</data>
   <data key="d13">2.9010171750531866</data>
   <data key="d14">0</data>
@@ -567,7 +592,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">1.0397320482809045</data>
   <data key="d22">0</data>
@@ -575,16 +600,16 @@
 <node id="FBgn0003204">
   <data key="d0">0</data>
   <data key="d1">1.5663776796634876</data>
-  <data key="d2">3.1466251762801365</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">1.0868027836079175</data>
+  <data key="d4">0</data>
   <data key="d5">ras</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.0868027836079175</data>
   <data key="d8">1</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">3.1466251762801365</data>
   <data key="d12">0</data>
   <data key="d13">3.1466251762801365</data>
   <data key="d14">0</data>
@@ -600,16 +625,16 @@
 <node id="FBgn0029840">
   <data key="d0">0</data>
   <data key="d1">6.719702016102843</data>
-  <data key="d2">10.535891039679559</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.527907991649042</data>
+  <data key="d4">0</data>
   <data key="d5">raptor</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">6.527907991649042</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">10.535891039679559</data>
   <data key="d12">0</data>
   <data key="d13">6.719702016102843</data>
   <data key="d14">1</data>
@@ -617,7 +642,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">2.3281309191647246</data>
   <data key="d22">0</data>
@@ -625,16 +650,16 @@
 <node id="FBgn0037351">
   <data key="d0">0</data>
   <data key="d1">4.633510500247284</data>
-  <data key="d2">15.383815024430138</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">8.460471160858942</data>
+  <data key="d4">0</data>
   <data key="d5">RpL13A</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.460471160858942</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">15.383815024430138</data>
   <data key="d12">0</data>
   <data key="d13">5.364087957899406</data>
   <data key="d14">0</data>
@@ -642,7 +667,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">5.364087957899406</data>
   <data key="d22">0</data>
@@ -650,16 +675,16 @@
 <node id="FBgn0011642">
   <data key="d0">0</data>
   <data key="d1">5.791300444559997</data>
-  <data key="d2">0.4059248698958958</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">1.0796578304145787</data>
+  <data key="d4">0</data>
   <data key="d5">Zyx</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.0796578304145787</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">0.4059248698958958</data>
   <data key="d12">0</data>
   <data key="d13">5.791300444559997</data>
   <data key="d14">0</data>
@@ -667,7 +692,7 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">2.958251823212157</data>
   <data key="d22">0</data>
@@ -675,16 +700,16 @@
 <node id="FBgn0015218">
   <data key="d0">0</data>
   <data key="d1">6.7036285967852045</data>
-  <data key="d2">12.177746096876879</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">7.897222760620305</data>
+  <data key="d4">0</data>
   <data key="d5">eIF4E1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">7.897222760620305</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">12.177746096876879</data>
   <data key="d12">0</data>
   <data key="d13">6.7036285967852045</data>
   <data key="d14">1</data>
@@ -692,51 +717,26 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0000117">
-  <data key="d0">0</data>
-  <data key="d1">6.7036285967852045</data>
-  <data key="d2">4.714973488790789</data>
+<node id="FBgn0003444">
+  <data key="d0">1</data>
+  <data key="d1">4.326372000179345</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.351004767327418</data>
-  <data key="d5">arm</data>
+  <data key="d4">0</data>
+  <data key="d5">smo</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.254407539616596</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">2.212538500389395</data>
   <data key="d12">0</data>
-  <data key="d13">4.714973488790789</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">111</data>
-  <data key="d20">1</data>
-  <data key="d21">7.634412216406263</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0003396">
-  <data key="d0">0</data>
-  <data key="d1">0.9957270751764172</data>
-  <data key="d2">2.14279823242099</data>
-  <data key="d3">0</data>
-  <data key="d4">1.2577876929816314</data>
-  <data key="d5">shn</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
-  <data key="d12">0</data>
-  <data key="d13">2.14279823242099</data>
+  <data key="d13">2.2125385003893956</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
@@ -744,22 +744,72 @@
   <data key="d18">Else</data>
   <data key="d19">100</data>
   <data key="d20">0</data>
-  <data key="d21">0.6348377713474871</data>
-  <data key="d22">1</data>
+  <data key="d21">0.22431211828104808</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0000117">
+  <data key="d0">0</data>
+  <data key="d1">6.7036285967852045</data>
+  <data key="d11">Seed_Negative</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">arm</data>
+  <data key="d6">0</data>
+  <data key="d7">6.351004767327418</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">4.714973488790789</data>
+  <data key="d12">0</data>
+  <data key="d13">4.714973488790789</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">110</data>
+  <data key="d20">1</data>
+  <data key="d21">7.634412216406263</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0037874">
+  <data key="d0">0</data>
+  <data key="d1">6.976040401372835</data>
+  <data key="d11">Connector_NS</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Tctp</data>
+  <data key="d6">0</data>
+  <data key="d7">4.276678344929837</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">1.905677466573659</data>
+  <data key="d12">0</data>
+  <data key="d13">3.9483171668430175</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">101</data>
+  <data key="d20">0</data>
+  <data key="d21">3.9483171668430175</data>
+  <data key="d22">0</data>
 </node>
 <node id="FBgn0027619">
   <data key="d0">0</data>
   <data key="d1">0.0</data>
-  <data key="d2">0.0</data>
+  <data key="d11">Connector_Uknw</data>
   <data key="d3">0</data>
-  <data key="d4">0.0</data>
+  <data key="d4">0</data>
   <data key="d5">eIF3j</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.0</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Uknw</data>
+  <data key="d2">0.0</data>
   <data key="d12">0</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
@@ -774,16 +824,16 @@
 <node id="FBgn0005355">
   <data key="d0">1</data>
   <data key="d1">6.745114047118753</data>
-  <data key="d2">1.5982060308091541</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">4.324317494106145</data>
+  <data key="d4">0</data>
   <data key="d5">Su(fu)</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.324317494106145</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">1.5982060308091541</data>
   <data key="d12">0</data>
   <data key="d13">6.745114047118753</data>
   <data key="d14">0</data>
@@ -799,16 +849,16 @@
 <node id="FBgn0000352">
   <data key="d0">1</data>
   <data key="d1">6.719702016102843</data>
-  <data key="d2">14.142135623730951</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">9.498749952080018</data>
+  <data key="d4">0</data>
   <data key="d5">cos</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">9.498749952080018</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">14.142135623730951</data>
   <data key="d12">0</data>
   <data key="d13">14.142135623730951</data>
   <data key="d14">0</data>
@@ -816,7 +866,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">7.634412216406263</data>
   <data key="d22">0</data>
@@ -824,16 +874,16 @@
 <node id="FBgn0039234">
   <data key="d0">0</data>
   <data key="d1">0.20412504196023556</data>
-  <data key="d2">1.438671651004141</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">1</data>
-  <data key="d4">0.38489969144542796</data>
+  <data key="d4">0</data>
   <data key="d5">Nct</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.38489969144542796</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.438671651004141</data>
   <data key="d12">0</data>
   <data key="d13">0.15203960843648032</data>
   <data key="d14">0</data>
@@ -849,16 +899,16 @@
 <node id="FBgn0024248">
   <data key="d0">0</data>
   <data key="d1">2.1777890416139187</data>
-  <data key="d2">2.4041630560342613</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">1.9274994137163592</data>
+  <data key="d4">0</data>
   <data key="d5">chico</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.9274994137163592</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">2.4041630560342613</data>
   <data key="d12">1</data>
   <data key="d13">2.4041630560342613</data>
   <data key="d14">1</data>
@@ -866,7 +916,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">1.2005461435008975</data>
   <data key="d22">0</data>
@@ -874,16 +924,16 @@
 <node id="FBgn0000635">
   <data key="d0">0</data>
   <data key="d1">0.7601980421824016</data>
-  <data key="d2">0.06691496051182153</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.03155759822462087</data>
+  <data key="d4">0</data>
   <data key="d5">Fas2</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.03155759822462087</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.06691496051182153</data>
   <data key="d12">0</data>
   <data key="d13">0.06691496051182147</data>
   <data key="d14">0</data>
@@ -891,7 +941,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">0.5986102869967175</data>
   <data key="d22">0</data>
@@ -899,16 +949,16 @@
 <node id="FBgn0033378">
   <data key="d0">0</data>
   <data key="d1">5.316179091215694</data>
-  <data key="d2">1.0606601717798212</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">1.7484591006798056</data>
+  <data key="d4">0</data>
   <data key="d5">tsu</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.7484591006798056</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">1.0606601717798212</data>
   <data key="d12">0</data>
   <data key="d13">5.316179091215694</data>
   <data key="d14">0</data>
@@ -916,7 +966,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">1.131461960956098</data>
   <data key="d22">0</data>
@@ -924,16 +974,16 @@
 <node id="FBgn0020386">
   <data key="d0">0</data>
   <data key="d1">4.71077896969428</data>
-  <data key="d2">2.0152543263816605</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.327587814085978</data>
+  <data key="d4">0</data>
   <data key="d5">Pdk1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.327587814085978</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">2.0152543263816605</data>
   <data key="d12">1</data>
   <data key="d13">2.0152543263816605</data>
   <data key="d14">1</data>
@@ -941,7 +991,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">110</data>
   <data key="d20">0</data>
   <data key="d21">3.2567301461819937</data>
   <data key="d22">0</data>
@@ -949,16 +999,16 @@
 <node id="FBgn0004856">
   <data key="d0">0</data>
   <data key="d1">6.719702016102843</data>
-  <data key="d2">4.3487067042972685</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">5.558737225808771</data>
+  <data key="d4">0</data>
   <data key="d5">Bx42</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">5.558737225808771</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">4.3487067042972685</data>
   <data key="d12">0</data>
   <data key="d13">4.3487067042972685</data>
   <data key="d14">0</data>
@@ -974,16 +1024,16 @@
 <node id="FBgn0036790">
   <data key="d0">0</data>
   <data key="d1">2.432633734983685</data>
-  <data key="d2">0.16728740127955039</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">1.777357626977824</data>
+  <data key="d4">0</data>
   <data key="d5">AstC-R1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.777357626977824</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.16728740127955039</data>
   <data key="d12">0</data>
   <data key="d13">3.066726547229337</data>
   <data key="d14">0</data>
@@ -991,7 +1041,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">011</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">3.066726547229337</data>
   <data key="d22">0</data>
@@ -999,16 +1049,16 @@
 <node id="FBgn0260632">
   <data key="d0">0</data>
   <data key="d1">1.1587701050298664</data>
-  <data key="d2">0.1060660171779821</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.862910484126707</data>
+  <data key="d4">1</data>
   <data key="d5">dl</data>
   <data key="d6">0</data>
-  <data key="d7">1</data>
+  <data key="d7">0.862910484126707</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.1060660171779821</data>
   <data key="d12">0</data>
   <data key="d13">1.1587701050298664</data>
   <data key="d14">0</data>
@@ -1016,7 +1066,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">3.6414355402320058</data>
   <data key="d22">0</data>
@@ -1024,16 +1074,16 @@
 <node id="FBgn0015282">
   <data key="d0">0</data>
   <data key="d1">9.887779003684974</data>
-  <data key="d2">12.15259892618284</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.685460177952237</data>
+  <data key="d4">0</data>
   <data key="d5">Rpt2</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.685460177952237</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">12.15259892618284</data>
   <data key="d12">0</data>
   <data key="d13">12.15259892618286</data>
   <data key="d14">0</data>
@@ -1049,16 +1099,16 @@
 <node id="FBgn0044028">
   <data key="d0">0</data>
   <data key="d1">5.064082352206574</data>
-  <data key="d2">0.031224989991991997</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">1.9947031531621748</data>
+  <data key="d4">0</data>
   <data key="d5">Notum</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.9947031531621748</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">0.031224989991991997</data>
   <data key="d12">0</data>
   <data key="d13">5.064082352206574</data>
   <data key="d14">0</data>
@@ -1074,16 +1124,16 @@
 <node id="FBgn0001624">
   <data key="d0">0</data>
   <data key="d1">5.316179091215694</data>
-  <data key="d2">13.67126057944227</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.720721747130648</data>
+  <data key="d4">0</data>
   <data key="d5">dlg1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.720721747130648</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">13.67126057944227</data>
   <data key="d12">0</data>
   <data key="d13">13.67126057944227</data>
   <data key="d14">0</data>
@@ -1099,16 +1149,16 @@
 <node id="FBgn0036974">
   <data key="d0">1</data>
   <data key="d1">8.415321146690308</data>
-  <data key="d2">7.3924815777716235</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">7.138535227162712</data>
+  <data key="d4">0</data>
   <data key="d5">eRF1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">7.138535227162712</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">7.3924815777716235</data>
   <data key="d12">0</data>
   <data key="d13">7.3924815777716235</data>
   <data key="d14">0</data>
@@ -1116,7 +1166,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">5.607802957026203</data>
   <data key="d22">0</data>
@@ -1124,16 +1174,16 @@
 <node id="FBgn0003205">
   <data key="d0">0</data>
   <data key="d1">1.1121863822145948</data>
-  <data key="d2">1.2727922061357855</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.4952138284412695</data>
+  <data key="d4">0</data>
   <data key="d5">Ras85D</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.4952138284412695</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">1</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">1.2727922061357855</data>
   <data key="d12">1</data>
   <data key="d13">5.100662896973429</data>
   <data key="d14">0</data>
@@ -1141,7 +1191,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">5.100662896973429</data>
   <data key="d22">0</data>
@@ -1149,16 +1199,16 @@
 <node id="FBgn0036046">
   <data key="d0">0</data>
   <data key="d1">1.7841970922573216</data>
-  <data key="d2">2.1920310216782974</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">1.8881573171748531</data>
+  <data key="d4">0</data>
   <data key="d5">Ilp2</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.8881573171748531</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">2.1920310216782974</data>
   <data key="d12">1</data>
   <data key="d13">2.1920310216782974</data>
   <data key="d14">0</data>
@@ -1166,7 +1216,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Ligand</data>
-  <data key="d19">100</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">1.6882438375889408</data>
   <data key="d22">0</data>
@@ -1174,16 +1224,16 @@
 <node id="FBgn0025800">
   <data key="d0">0</data>
   <data key="d1">5.056092051528037</data>
-  <data key="d2">5.367750341864879</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.892628841975393</data>
+  <data key="d4">0</data>
   <data key="d5">Smox</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.892628841975393</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">5.367750341864879</data>
   <data key="d12">1</data>
   <data key="d13">5.056092051528037</data>
   <data key="d14">0</data>
@@ -1191,7 +1241,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">4.254044132533262</data>
   <data key="d22">1</data>
@@ -1199,16 +1249,16 @@
 <node id="FBgn0000047">
   <data key="d0">0</data>
   <data key="d1">9.600922395445838</data>
-  <data key="d2">0.15135664698474946</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.753286445553306</data>
+  <data key="d4">0</data>
   <data key="d5">Act88F</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.753286445553306</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.15135664698474946</data>
   <data key="d12">0</data>
   <data key="d13">9.600922395445838</data>
   <data key="d14">0</data>
@@ -1216,7 +1266,7 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
@@ -1224,16 +1274,16 @@
 <node id="FBgn0023169">
   <data key="d0">0</data>
   <data key="d1">1.5372628529039432</data>
-  <data key="d2">0.8838834764831844</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">1.5266468509945694</data>
+  <data key="d4">0</data>
   <data key="d5">AMPKalpha</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.5266468509945694</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">0.8838834764831844</data>
   <data key="d12">1</data>
   <data key="d13">5.233319929404467</data>
   <data key="d14">1</data>
@@ -1241,7 +1291,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">5.233319929404467</data>
   <data key="d22">0</data>
@@ -1249,16 +1299,16 @@
 <node id="FBgn0004177">
   <data key="d0">0</data>
   <data key="d1">6.719702016102843</data>
-  <data key="d2">14.762975324080546</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.948921766027597</data>
+  <data key="d4">0</data>
   <data key="d5">mts</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.948921766027597</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">14.762975324080546</data>
   <data key="d12">0</data>
   <data key="d13">14.762975324080546</data>
   <data key="d14">0</data>
@@ -1266,7 +1316,7 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">5.364087957899406</data>
   <data key="d22">1</data>
@@ -1274,16 +1324,16 @@
 <node id="FBgn0010825">
   <data key="d0">0</data>
   <data key="d1">5.316179091215694</data>
-  <data key="d2">4.490128060534577</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">5.679492160685926</data>
+  <data key="d4">0</data>
   <data key="d5">Gug</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">5.679492160685926</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">4.490128060534577</data>
   <data key="d12">0</data>
   <data key="d13">4.490128060534577</data>
   <data key="d14">0</data>
@@ -1291,7 +1341,7 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">110</data>
   <data key="d20">0</data>
   <data key="d21">7.232169330307508</data>
   <data key="d22">0</data>
@@ -1299,16 +1349,16 @@
 <node id="FBgn0044323">
   <data key="d0">0</data>
   <data key="d1">4.019430795395234</data>
-  <data key="d2">3.7233735158248438</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.8520367739992984</data>
+  <data key="d4">0</data>
   <data key="d5">Cka</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.8520367739992984</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">3.7233735158248438</data>
   <data key="d12">0</data>
   <data key="d13">3.7233735158248438</data>
   <data key="d14">0</data>
@@ -1316,7 +1366,7 @@
   <data key="d16">1</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">3.8133060107778167</data>
   <data key="d22">0</data>
@@ -1324,16 +1374,16 @@
 <node id="FBgn0259984">
   <data key="d0">0</data>
   <data key="d1">5.303415632813156</data>
-  <data key="d2">0.5993694165362393</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">1</data>
-  <data key="d4">1.800634623985322</data>
+  <data key="d4">0</data>
   <data key="d5">kuz</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.800634623985322</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">0.5993694165362393</data>
   <data key="d12">0</data>
   <data key="d13">5.303415632813156</data>
   <data key="d14">0</data>
@@ -1349,16 +1399,16 @@
 <node id="FBgn0261854">
   <data key="d0">0</data>
   <data key="d1">9.5248754853829</data>
-  <data key="d2">0.7548660766034402</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.51833964360389</data>
+  <data key="d4">0</data>
   <data key="d5">aPKC</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.51833964360389</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.7548660766034402</data>
   <data key="d12">0</data>
   <data key="d13">9.5248754853829</data>
   <data key="d14">0</data>
@@ -1366,74 +1416,74 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">4.785009522032213</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0003430">
+<node id="FBgn0260945">
   <data key="d0">0</data>
   <data key="d1">5.1301930878750674</data>
-  <data key="d2">0.8485281374238569</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.6318717813091435</data>
-  <data key="d5">slp1</data>
+  <data key="d4">0</data>
+  <data key="d5">Atg1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.9823165196949994</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">0.6869497798238237</data>
   <data key="d12">0</data>
   <data key="d13">5.1301930878750674</data>
+  <data key="d14">1</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">001</data>
+  <data key="d20">0</data>
+  <data key="d21">4.503706251033756</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0040078">
+  <data key="d0">0</data>
+  <data key="d1">2.4410509665451494</data>
+  <data key="d11">Connector_NS</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">pont</data>
+  <data key="d6">0</data>
+  <data key="d7">1.800100547619697</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">0.3345748025591038</data>
+  <data key="d12">0</data>
+  <data key="d13">2.6246758737548377</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">100</data>
   <data key="d20">1</data>
-  <data key="d21">1.9168941186285058</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0000046">
-  <data key="d0">0</data>
-  <data key="d1">1.5207329608539701</data>
-  <data key="d2">1.489237437799439</data>
-  <data key="d3">0</data>
-  <data key="d4">3.271458914632143</data>
-  <data key="d5">Act87E</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
-  <data key="d12">0</data>
-  <data key="d13">6.80440634524302</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">1</data>
-  <data key="d18">Else</data>
-  <data key="d19">001</data>
-  <data key="d20">0</data>
-  <data key="d21">6.80440634524302</data>
+  <data key="d21">2.6246758737548377</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0004638">
   <data key="d0">0</data>
   <data key="d1">1.2002466958471878</data>
-  <data key="d2">0.06244997998398397</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.7938388679013205</data>
+  <data key="d4">0</data>
   <data key="d5">drk</data>
   <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d7">0.7938388679013205</data>
   <data key="d8">1</data>
   <data key="d9">1</data>
   <data key="d10">1</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.06244997998398397</data>
   <data key="d12">1</data>
   <data key="d13">1.2002466958471878</data>
   <data key="d14">0</data>
@@ -1441,7 +1491,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">1.1188199278727895</data>
   <data key="d22">0</data>
@@ -1449,16 +1499,16 @@
 <node id="FBgn0003892">
   <data key="d0">1</data>
   <data key="d1">5.316179091215694</data>
-  <data key="d2">12.97640616625588</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.498677569330772</data>
+  <data key="d4">0</data>
   <data key="d5">ptc</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.498677569330772</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">12.97640616625588</data>
   <data key="d12">0</data>
   <data key="d13">12.97640616625588</data>
   <data key="d14">0</data>
@@ -1466,26 +1516,26 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Receptor</data>
-  <data key="d19">111</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">7.203447450520744</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0016917">
-  <data key="d0">0</data>
-  <data key="d1">5.017935001838216</data>
-  <data key="d2">4.048355110965144</data>
+<node id="FBgn0023518">
+  <data key="d0">1</data>
+  <data key="d1">5.316179091215694</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.972924598446123</data>
-  <data key="d5">Stat92E</data>
-  <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d4">0</data>
+  <data key="d5">trr</data>
+  <data key="d6">0</data>
+  <data key="d7">6.11554134241763</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">5.79827560572969</data>
   <data key="d12">0</data>
-  <data key="d13">10.703588433928212</data>
+  <data key="d13">5.79827560572969</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
@@ -1493,22 +1543,47 @@
   <data key="d18">Else</data>
   <data key="d19">010</data>
   <data key="d20">0</data>
-  <data key="d21">11.852483682535008</data>
+  <data key="d21">7.232169330307508</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0003984">
+  <data key="d0">0</data>
+  <data key="d1">2.1492789669821737</data>
+  <data key="d11">Seed_Negative</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">vn</data>
+  <data key="d6">0</data>
+  <data key="d7">0.43147302574707586</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">2.2125385003893947</data>
+  <data key="d12">0</data>
+  <data key="d13">2.2125385003893947</data>
+  <data key="d14">0</data>
+  <data key="d15">1</data>
+  <data key="d16">0</data>
+  <data key="d17">1</data>
+  <data key="d18">Ligand</data>
+  <data key="d19">010</data>
+  <data key="d20">0</data>
+  <data key="d21">1.3576786106484489</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0027535">
   <data key="d0">1</data>
   <data key="d1">1.2560721235610106</data>
-  <data key="d2">0.33298462336644896</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">1.0137275217577306</data>
+  <data key="d4">0</data>
   <data key="d5">botv</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.0137275217577306</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.33298462336644896</data>
   <data key="d12">0</data>
   <data key="d13">1.4521258183457324</data>
   <data key="d14">0</data>
@@ -1516,49 +1591,24 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">110</data>
   <data key="d20">1</data>
   <data key="d21">1.4521258183457324</data>
   <data key="d22">1</data>
 </node>
-<node id="FBgn0260945">
-  <data key="d0">0</data>
-  <data key="d1">5.1301930878750674</data>
-  <data key="d2">0.6869497798238237</data>
-  <data key="d3">0</data>
-  <data key="d4">2.9823165196949994</data>
-  <data key="d5">Atg1</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
-  <data key="d12">0</data>
-  <data key="d13">5.1301930878750674</data>
-  <data key="d14">1</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">010</data>
-  <data key="d20">0</data>
-  <data key="d21">4.503706251033756</data>
-  <data key="d22">0</data>
-</node>
 <node id="FBgn0005198">
   <data key="d0">0</data>
   <data key="d1">1.3165176791252775</data>
-  <data key="d2">1.2296055480636392</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.9278942000843502</data>
+  <data key="d4">0</data>
   <data key="d5">gig</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.9278942000843502</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.2296055480636392</data>
   <data key="d12">0</data>
   <data key="d13">1.2296055480636396</data>
   <data key="d14">1</data>
@@ -1566,7 +1616,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">101</data>
   <data key="d20">0</data>
   <data key="d21">0.23755937306413397</data>
   <data key="d22">0</data>
@@ -1574,16 +1624,16 @@
 <node id="FBgn0021874">
   <data key="d0">0</data>
   <data key="d1">7.85187048637467</data>
-  <data key="d2">13.67126057944227</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">8.962406341238783</data>
+  <data key="d4">0</data>
   <data key="d5">Nle</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.962406341238783</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">13.67126057944227</data>
   <data key="d12">0</data>
   <data key="d13">13.67126057944227</data>
   <data key="d14">0</data>
@@ -1599,16 +1649,16 @@
 <node id="FBgn0002973">
   <data key="d0">0</data>
   <data key="d1">5.316179091215694</data>
-  <data key="d2">0.10606601717798211</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">1.8163017544200535</data>
+  <data key="d4">0</data>
   <data key="d5">numb</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.8163017544200535</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.10606601717798211</data>
   <data key="d12">0</data>
   <data key="d13">5.316179091215694</data>
   <data key="d14">0</data>
@@ -1624,16 +1674,16 @@
 <node id="FBgn0262029">
   <data key="d0">0</data>
   <data key="d1">3.3319810776920544</data>
-  <data key="d2">1.2713958346718974</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.8880582468604605</data>
+  <data key="d4">0</data>
   <data key="d5">d</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.8880582468604605</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.2713958346718974</data>
   <data key="d12">0</data>
   <data key="d13">3.3319810776920544</data>
   <data key="d14">0</data>
@@ -1641,7 +1691,7 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">0.6035894975612246</data>
   <data key="d22">0</data>
@@ -1649,16 +1699,16 @@
 <node id="FBgn0036196">
   <data key="d0">0</data>
   <data key="d1">6.670573228950957</data>
-  <data key="d2">0.6557247898318318</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.555768056328809</data>
+  <data key="d4">0</data>
   <data key="d5">CG11658</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.555768056328809</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.6557247898318318</data>
   <data key="d12">1</data>
   <data key="d13">6.341006150203638</data>
   <data key="d14">0</data>
@@ -1666,24 +1716,49 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">011</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">6.341006150203638</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0261014">
+  <data key="d0">0</data>
+  <data key="d1">0.5979463201176716</data>
+  <data key="d11">Connector_NS</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">TER94</data>
+  <data key="d6">0</data>
+  <data key="d7">0.41393836664096834</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">0.2811655278551305</data>
+  <data key="d12">0</data>
+  <data key="d13">0.2811655278551308</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">101</data>
+  <data key="d20">0</data>
+  <data key="d21">0.925034307660364</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0002174">
   <data key="d0">1</data>
   <data key="d1">1.844489525150959</data>
-  <data key="d2">3.2161739691751743</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.059888117103293</data>
+  <data key="d4">0</data>
   <data key="d5">CG5504</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.059888117103293</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">3.2161739691751743</data>
   <data key="d12">0</data>
   <data key="d13">3.2161739691751743</data>
   <data key="d14">0</data>
@@ -1699,16 +1774,16 @@
 <node id="FBgn0010909">
   <data key="d0">0</data>
   <data key="d1">6.7036285967852045</data>
-  <data key="d2">6.869497798238238</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">7.069179537143235</data>
+  <data key="d4">0</data>
   <data key="d5">msn</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">7.069179537143235</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">6.869497798238238</data>
   <data key="d12">0</data>
   <data key="d13">6.869497798238238</data>
   <data key="d14">0</data>
@@ -1721,44 +1796,44 @@
   <data key="d21">7.634412216406263</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0026379">
+<node id="FBgn0014011">
   <data key="d0">0</data>
-  <data key="d1">3.907779939967588</data>
-  <data key="d2">2.7591656593091267</data>
+  <data key="d1">9.600922395445838</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">2.7457101424146835</data>
-  <data key="d5">Pten</data>
+  <data key="d4">0</data>
+  <data key="d5">Rac2</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">6.135677154680688</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
-  <data key="d12">1</data>
-  <data key="d13">2.7591656593091267</data>
-  <data key="d14">1</data>
+  <data key="d2">3.9958154803973946</data>
+  <data key="d12">0</data>
+  <data key="d13">9.600922395445838</data>
+  <data key="d14">0</data>
   <data key="d15">0</data>
-  <data key="d16">0</data>
+  <data key="d16">1</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
   <data key="d19">100</data>
   <data key="d20">0</data>
-  <data key="d21">1.5701848279673365</data>
+  <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0031450">
   <data key="d0">0</data>
   <data key="d1">5.700683079518789</data>
-  <data key="d2">0.07808959413139073</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.608790919217064</data>
+  <data key="d4">0</data>
   <data key="d5">Hrs</data>
   <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d7">3.608790919217064</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.07808959413139073</data>
   <data key="d12">0</data>
   <data key="d13">5.0476000840010125</data>
   <data key="d14">0</data>
@@ -1766,7 +1841,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">011</data>
+  <data key="d19">110</data>
   <data key="d20">0</data>
   <data key="d21">5.0476000840010125</data>
   <data key="d22">0</data>
@@ -1774,16 +1849,16 @@
 <node id="FBgn0025674">
   <data key="d0">0</data>
   <data key="d1">6.680075250660268</data>
-  <data key="d2">5.954371961386481</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.233625921292706</data>
+  <data key="d4">0</data>
   <data key="d5">CycK</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">6.233625921292706</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">5.954371961386481</data>
   <data key="d12">0</data>
   <data key="d13">5.95437196138648</data>
   <data key="d14">0</data>
@@ -1791,7 +1866,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">6.0664305518313695</data>
   <data key="d22">0</data>
@@ -1799,16 +1874,16 @@
 <node id="FBgn0001169">
   <data key="d0">0</data>
   <data key="d1">3.781665557058522</data>
-  <data key="d2">2.449361806482032</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">1</data>
-  <data key="d4">0.9518895790383821</data>
+  <data key="d4">0</data>
   <data key="d5">H</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.9518895790383821</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">2.449361806482032</data>
   <data key="d12">0</data>
   <data key="d13">2.449361806482032</data>
   <data key="d14">0</data>
@@ -1816,24 +1891,49 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">110</data>
   <data key="d20">0</data>
   <data key="d21">1.523364986538657</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0004837">
+  <data key="d0">0</data>
+  <data key="d1">1.7648012138305325</data>
+  <data key="d11">Seed_Positive</data>
+  <data key="d3">1</data>
+  <data key="d4">0</data>
+  <data key="d5">Su(H)</data>
+  <data key="d6">0</data>
+  <data key="d7">0.44857178005471426</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">2.1430489958577295</data>
+  <data key="d12">0</data>
+  <data key="d13">2.1430489958577295</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">100</data>
+  <data key="d20">0</data>
+  <data key="d21">1.7239631221913396</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0014020">
   <data key="d0">0</data>
   <data key="d1">6.719702016102843</data>
-  <data key="d2">14.142135623730951</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">9.498749952080018</data>
+  <data key="d4">0</data>
   <data key="d5">Rho1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">9.498749952080018</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">14.142135623730951</data>
   <data key="d12">0</data>
   <data key="d13">14.142135623730951</data>
   <data key="d14">0</data>
@@ -1841,7 +1941,7 @@
   <data key="d16">1</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">011</data>
   <data key="d20">1</data>
   <data key="d21">7.634412216406263</data>
   <data key="d22">1</data>
@@ -1849,16 +1949,16 @@
 <node id="FBgn0021944">
   <data key="d0">0</data>
   <data key="d1">0.30407921687296063</data>
-  <data key="d2">0.10037244076773182</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.07711164773246167</data>
+  <data key="d4">0</data>
   <data key="d5">Coprox</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.07711164773246167</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.10037244076773182</data>
   <data key="d12">0</data>
   <data key="d13">0.02762816709215619</data>
   <data key="d14">0</data>
@@ -1866,7 +1966,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">011</data>
   <data key="d20">0</data>
   <data key="d21">0.02762816709215619</data>
   <data key="d22">0</data>
@@ -1874,16 +1974,16 @@
 <node id="FBgn0263396">
   <data key="d0">0</data>
   <data key="d1">2.1751380630367474</data>
-  <data key="d2">0.9059778119776418</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">1.621166351063079</data>
+  <data key="d4">0</data>
   <data key="d5">sqd</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.621166351063079</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.9059778119776418</data>
   <data key="d12">0</data>
   <data key="d13">0.9059778119776428</data>
   <data key="d14">0</data>
@@ -1891,49 +1991,24 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">1.7823831781748483</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0000042">
-  <data key="d0">0</data>
-  <data key="d1">6.719702016102843</data>
-  <data key="d2">3.50017856687341</data>
-  <data key="d3">0</data>
-  <data key="d4">5.0100580570583615</data>
-  <data key="d5">Act5C</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">6.719702016102843</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">1</data>
-  <data key="d18">Else</data>
-  <data key="d19">110</data>
-  <data key="d20">0</data>
-  <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0264492">
   <data key="d0">0</data>
   <data key="d1">4.633510500247284</data>
-  <data key="d2">4.71497348879079</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.977558381379985</data>
+  <data key="d4">0</data>
   <data key="d5">CkIIalpha</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.977558381379985</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">4.71497348879079</data>
   <data key="d12">0</data>
   <data key="d13">5.584191155101881</data>
   <data key="d14">0</data>
@@ -1941,49 +2016,24 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">111</data>
   <data key="d20">1</data>
   <data key="d21">5.584191155101881</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0010504">
-  <data key="d0">0</data>
-  <data key="d1">6.137820439278825</data>
-  <data key="d2">0.23426878239417087</data>
-  <data key="d3">0</data>
-  <data key="d4">3.478834285985544</data>
-  <data key="d5">kermit</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
-  <data key="d12">0</data>
-  <data key="d13">6.137820439278825</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">010</data>
-  <data key="d20">1</data>
-  <data key="d21">4.0644136362836365</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0000546">
   <data key="d0">0</data>
   <data key="d1">0.03835116271255875</data>
-  <data key="d2">0.730763831624705</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.11336435871000627</data>
+  <data key="d4">0</data>
   <data key="d5">EcR</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.11336435871000627</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.730763831624705</data>
   <data key="d12">0</data>
   <data key="d13">0.730763831624705</data>
   <data key="d14">0</data>
@@ -1991,26 +2041,26 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">1.032505745042165</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0011726">
-  <data key="d0">0</data>
-  <data key="d1">10.703588433928212</data>
-  <data key="d2">13.483364543131838</data>
+<node id="FBgn0026250">
+  <data key="d0">1</data>
+  <data key="d1">4.633510500247284</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">12.01314555319835</data>
-  <data key="d5">tsr</data>
+  <data key="d4">0</data>
+  <data key="d5">eIF1A</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">7.308682201498724</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">11.684733147222685</data>
   <data key="d12">0</data>
-  <data key="d13">10.703588433928212</data>
+  <data key="d13">5.607802957026203</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
@@ -2018,22 +2068,22 @@
   <data key="d18">Else</data>
   <data key="d19">010</data>
   <data key="d20">0</data>
-  <data key="d21">11.852483682535008</data>
+  <data key="d21">5.607802957026203</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0035640">
   <data key="d0">0</data>
   <data key="d1">5.655873433837067</data>
-  <data key="d2">1.5055866115159615</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">2.0279871762529793</data>
+  <data key="d4">0</data>
   <data key="d5">mad2</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.0279871762529793</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">1.5055866115159615</data>
   <data key="d12">0</data>
   <data key="d13">5.655873433837067</data>
   <data key="d14">0</data>
@@ -2041,7 +2091,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">1.0774985165940916</data>
   <data key="d22">0</data>
@@ -2049,16 +2099,16 @@
 <node id="FBgn0086613">
   <data key="d0">0</data>
   <data key="d1">1.879398852614028</data>
-  <data key="d2">1.2135562885989362</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.6845630058561669</data>
+  <data key="d4">0</data>
   <data key="d5">Ino80</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.6845630058561669</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.2135562885989362</data>
   <data key="d12">0</data>
   <data key="d13">2.7195315815835928</data>
   <data key="d14">0</data>
@@ -2066,7 +2116,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">2.7195315815835928</data>
   <data key="d22">0</data>
@@ -2074,16 +2124,16 @@
 <node id="FBgn0001235">
   <data key="d0">0</data>
   <data key="d1">3.4443693283284915</data>
-  <data key="d2">5.444722215136415</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">0.08735777928434126</data>
+  <data key="d4">0</data>
   <data key="d5">hth</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.08735777928434126</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">5.444722215136415</data>
   <data key="d12">0</data>
   <data key="d13">5.444722215136415</data>
   <data key="d14">0</data>
@@ -2099,16 +2149,16 @@
 <node id="FBgn0037218">
   <data key="d0">0</data>
   <data key="d1">6.661472362583753</data>
-  <data key="d2">0.31819805153394637</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">3.78597009490708</data>
+  <data key="d4">0</data>
   <data key="d5">aux</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.78597009490708</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.31819805153394637</data>
   <data key="d12">0</data>
   <data key="d13">5.014635973671432</data>
   <data key="d14">0</data>
@@ -2116,7 +2166,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">011</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">5.014635973671432</data>
   <data key="d22">0</data>
@@ -2124,16 +2174,16 @@
 <node id="FBgn0000259">
   <data key="d0">0</data>
   <data key="d1">8.371353951566538</data>
-  <data key="d2">2.733135794598665</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">5.460575825416972</data>
+  <data key="d4">0</data>
   <data key="d5">CkIIbeta</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">5.460575825416972</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">2.733135794598665</data>
   <data key="d12">0</data>
   <data key="d13">2.733135794598665</data>
   <data key="d14">0</data>
@@ -2141,7 +2191,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">101</data>
   <data key="d20">1</data>
   <data key="d21">5.277237730085711</data>
   <data key="d22">0</data>
@@ -2149,16 +2199,16 @@
 <node id="FBgn0023540">
   <data key="d0">0</data>
   <data key="d1">10.703588433928212</data>
-  <data key="d2">11.04096848445039</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">11.199013533637869</data>
+  <data key="d4">0</data>
   <data key="d5">CG3630</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">11.199013533637869</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">11.04096848445039</data>
   <data key="d12">0</data>
   <data key="d13">10.703588433928212</data>
   <data key="d14">0</data>
@@ -2166,49 +2216,49 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">11.852483682535008</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0261988">
-  <data key="d0">1</data>
-  <data key="d1">8.239452366195215</data>
-  <data key="d2">0.4945674294988064</data>
+<node id="FBgn0021796">
+  <data key="d0">0</data>
+  <data key="d1">6.7036285967852045</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.7176427791085525</data>
-  <data key="d5">Gprk2</data>
+  <data key="d4">0</data>
+  <data key="d5">Tor</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.630429036742836</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">11.55324629703704</data>
   <data key="d12">0</data>
-  <data key="d13">5.4189085416316365</data>
-  <data key="d14">0</data>
+  <data key="d13">11.55324629703704</data>
+  <data key="d14">1</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">011</data>
+  <data key="d19">101</data>
   <data key="d20">0</data>
-  <data key="d21">5.4189085416316365</data>
+  <data key="d21">7.634412216406263</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0032006">
   <data key="d0">0</data>
   <data key="d1">6.518518536913422</data>
-  <data key="d2">0.8131727983645296</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.6623488987875845</data>
+  <data key="d4">0</data>
   <data key="d5">Pvr</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.6623488987875845</data>
   <data key="d8">0</data>
   <data key="d9">1</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">0.8131727983645296</data>
   <data key="d12">0</data>
   <data key="d13">6.518518536913422</data>
   <data key="d14">0</data>
@@ -2216,74 +2266,74 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Receptor</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">2.281700957813862</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0003984">
+<node id="FBgn0010504">
   <data key="d0">0</data>
-  <data key="d1">2.1492789669821737</data>
-  <data key="d2">2.2125385003893947</data>
+  <data key="d1">6.137820439278825</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">0.43147302574707586</data>
-  <data key="d5">vn</data>
+  <data key="d4">0</data>
+  <data key="d5">kermit</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.478834285985544</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.23426878239417087</data>
   <data key="d12">0</data>
-  <data key="d13">2.2125385003893947</data>
-  <data key="d14">0</data>
-  <data key="d15">1</data>
-  <data key="d16">0</data>
-  <data key="d17">1</data>
-  <data key="d18">Ligand</data>
-  <data key="d19">100</data>
-  <data key="d20">0</data>
-  <data key="d21">1.3576786106484489</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0003444">
-  <data key="d0">1</data>
-  <data key="d1">4.326372000179345</data>
-  <data key="d2">2.212538500389395</data>
-  <data key="d3">0</data>
-  <data key="d4">2.254407539616596</data>
-  <data key="d5">smo</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">2.2125385003893956</data>
+  <data key="d13">6.137820439278825</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
   <data key="d19">111</data>
+  <data key="d20">1</data>
+  <data key="d21">4.0644136362836365</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0026379">
+  <data key="d0">0</data>
+  <data key="d1">3.907779939967588</data>
+  <data key="d11">Seed_Positive</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Pten</data>
+  <data key="d6">0</data>
+  <data key="d7">2.7457101424146835</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">2.7591656593091267</data>
+  <data key="d12">1</data>
+  <data key="d13">2.7591656593091267</data>
+  <data key="d14">1</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
-  <data key="d21">0.22431211828104808</data>
+  <data key="d21">1.5701848279673365</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0005777">
   <data key="d0">0</data>
   <data key="d1">0.2432633734983685</data>
-  <data key="d2">0.5687771643504737</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">1.23299640519066</data>
+  <data key="d4">0</data>
   <data key="d5">PpD3</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.23299640519066</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.5687771643504737</data>
   <data key="d12">0</data>
   <data key="d13">0.2432633734983685</data>
   <data key="d14">0</data>
@@ -2291,49 +2341,74 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">4.0245030064240845</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0037874">
+<node id="FBgn0034970">
   <data key="d0">0</data>
-  <data key="d1">6.976040401372835</data>
-  <data key="d2">1.905677466573659</data>
+  <data key="d1">3.9897351888086474</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.276678344929837</data>
-  <data key="d5">Tctp</data>
+  <data key="d4">0</data>
+  <data key="d5">yki</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.603873177603824</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">2.762046292415909</data>
   <data key="d12">0</data>
-  <data key="d13">3.9483171668430175</data>
+  <data key="d13">7.059838051586918</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">1</data>
+  <data key="d18">Else</data>
+  <data key="d19">011</data>
+  <data key="d20">0</data>
+  <data key="d21">7.059838051586918</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0003396">
+  <data key="d0">0</data>
+  <data key="d1">0.9957270751764172</data>
+  <data key="d11">Seed_Positive</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">shn</data>
+  <data key="d6">0</data>
+  <data key="d7">1.2577876929816314</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">2.14279823242099</data>
+  <data key="d12">0</data>
+  <data key="d13">2.14279823242099</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
-  <data key="d21">3.9483171668430175</data>
-  <data key="d22">0</data>
+  <data key="d21">0.6348377713474871</data>
+  <data key="d22">1</data>
 </node>
 <node id="FBgn0001139">
   <data key="d0">0</data>
   <data key="d1">1.3334590655871326</data>
-  <data key="d2">3.8890872965260117</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">4.274598106803882</data>
+  <data key="d4">0</data>
   <data key="d5">gro</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.274598106803882</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">3.8890872965260117</data>
   <data key="d12">0</data>
   <data key="d13">7.6012479582985035</data>
   <data key="d14">0</data>
@@ -2341,7 +2416,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">100</data>
   <data key="d20">1</data>
   <data key="d21">7.6012479582985035</data>
   <data key="d22">0</data>
@@ -2349,16 +2424,16 @@
 <node id="FBgn0046692">
   <data key="d0">0</data>
   <data key="d1">6.683795376084657</data>
-  <data key="d2">1.48492424049175</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">3.704568578848487</data>
+  <data key="d4">0</data>
   <data key="d5">Stlk</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.704568578848487</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">1.48492424049175</data>
   <data key="d12">0</data>
   <data key="d13">6.683795376084657</data>
   <data key="d14">1</data>
@@ -2366,7 +2441,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">2.944986119969054</data>
   <data key="d22">0</data>
@@ -2374,16 +2449,16 @@
 <node id="FBgn0003041">
   <data key="d0">0</data>
   <data key="d1">12.15634286748611</data>
-  <data key="d2">14.319964205467448</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">12.776263585162857</data>
+  <data key="d4">0</data>
   <data key="d5">pbl</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">12.776263585162857</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">14.319964205467448</data>
   <data key="d12">0</data>
   <data key="d13">12.15634286748611</data>
   <data key="d14">0</data>
@@ -2391,7 +2466,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">11.852483682535008</data>
   <data key="d22">0</data>
@@ -2399,16 +2474,16 @@
 <node id="FBgn0261592">
   <data key="d0">0</data>
   <data key="d1">8.415321146690308</data>
-  <data key="d2">4.737435377304352</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.253519827006954</data>
+  <data key="d4">0</data>
   <data key="d5">RpS6</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">6.253519827006954</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">4.737435377304352</data>
   <data key="d12">0</data>
   <data key="d13">4.737435377304352</data>
   <data key="d14">1</data>
@@ -2416,7 +2491,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">5.607802957026203</data>
   <data key="d22">0</data>
@@ -2424,16 +2499,16 @@
 <node id="FBgn0010379">
   <data key="d0">0</data>
   <data key="d1">5.316179091215694</data>
-  <data key="d2">13.435028842544401</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.6611257546892</data>
+  <data key="d4">0</data>
   <data key="d5">Akt1</data>
   <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d7">8.6611257546892</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">13.435028842544401</data>
   <data key="d12">1</data>
   <data key="d13">13.435028842544401</data>
   <data key="d14">1</data>
@@ -2441,49 +2516,24 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">7.232169330307508</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0029175">
-  <data key="d0">1</data>
-  <data key="d1">6.399438921747852</data>
-  <data key="d2">14.142135623730951</data>
-  <data key="d3">0</data>
-  <data key="d4">9.01613399540708</data>
-  <data key="d5">sotv</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">14.142135623730951</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">111</data>
-  <data key="d20">1</data>
-  <data key="d21">6.506827440742437</data>
-  <data key="d22">1</data>
-</node>
 <node id="FBgn0041627">
   <data key="d0">0</data>
   <data key="d1">0.4218766344400376</data>
-  <data key="d2">1.108163024798095</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.26594620409087805</data>
+  <data key="d4">0</data>
   <data key="d5">Ku80</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.26594620409087805</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.108163024798095</data>
   <data key="d12">0</data>
   <data key="d13">0.4218766344400376</data>
   <data key="d14">0</data>
@@ -2491,26 +2541,26 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">110</data>
   <data key="d20">0</data>
   <data key="d21">0.7322010469654983</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0026250">
-  <data key="d0">1</data>
-  <data key="d1">4.633510500247284</data>
-  <data key="d2">11.684733147222685</data>
+<node id="FBgn0011726">
+  <data key="d0">0</data>
+  <data key="d1">10.703588433928212</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">7.308682201498724</data>
-  <data key="d5">eIF1A</data>
+  <data key="d4">0</data>
+  <data key="d5">tsr</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">12.01314555319835</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">13.483364543131838</data>
   <data key="d12">0</data>
-  <data key="d13">5.607802957026203</data>
+  <data key="d13">10.703588433928212</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
@@ -2518,22 +2568,22 @@
   <data key="d18">Else</data>
   <data key="d19">101</data>
   <data key="d20">0</data>
-  <data key="d21">5.607802957026203</data>
+  <data key="d21">11.852483682535008</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0045035">
   <data key="d0">0</data>
   <data key="d1">4.390515875339291</data>
-  <data key="d2">2.934493141924173</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">4.766227143163362</data>
+  <data key="d4">0</data>
   <data key="d5">tefu</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.766227143163362</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">2.934493141924173</data>
   <data key="d12">1</data>
   <data key="d13">6.9736724122266205</data>
   <data key="d14">0</data>
@@ -2541,7 +2591,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">6.9736724122266205</data>
   <data key="d22">0</data>
@@ -2549,16 +2599,16 @@
 <node id="FBgn0030904">
   <data key="d0">0</data>
   <data key="d1">6.7036285967852045</data>
-  <data key="d2">4.340273608886885</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.226104807359451</data>
+  <data key="d4">0</data>
   <data key="d5">upd2</data>
   <data key="d6">1</data>
-  <data key="d7">0</data>
+  <data key="d7">6.226104807359451</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">4.340273608886885</data>
   <data key="d12">0</data>
   <data key="d13">4.340273608886885</data>
   <data key="d14">0</data>
@@ -2566,7 +2616,7 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">101</data>
   <data key="d20">0</data>
   <data key="d21">7.634412216406263</data>
   <data key="d22">0</data>
@@ -2574,16 +2624,16 @@
 <node id="FBgn0003607">
   <data key="d0">0</data>
   <data key="d1">7.541164578449424</data>
-  <data key="d2">1.806703933819156</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">5.322030619252926</data>
+  <data key="d4">0</data>
   <data key="d5">Su(var)205</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">5.322030619252926</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.806703933819156</data>
   <data key="d12">0</data>
   <data key="d13">1.8067039338191564</data>
   <data key="d14">0</data>
@@ -2599,16 +2649,16 @@
 <node id="FBgn0028509">
   <data key="d0">0</data>
   <data key="d1">1.4595802409902112</data>
-  <data key="d2">1.0706393681891302</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.08216899010617044</data>
+  <data key="d4">0</data>
   <data key="d5">CenG1A</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.08216899010617044</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.0706393681891302</data>
   <data key="d12">0</data>
   <data key="d13">1.4595802409902112</data>
   <data key="d14">0</data>
@@ -2616,7 +2666,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">0.6354478431195923</data>
   <data key="d22">0</data>
@@ -2624,16 +2674,16 @@
 <node id="FBgn0030018">
   <data key="d0">0</data>
   <data key="d1">0.703916107408993</data>
-  <data key="d2">1.4052141707482328</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">0.42102359807102746</data>
+  <data key="d4">0</data>
   <data key="d5">slpr</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.42102359807102746</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.4052141707482328</data>
   <data key="d12">0</data>
   <data key="d13">0.5617727308738426</data>
   <data key="d14">0</data>
@@ -2641,7 +2691,7 @@
   <data key="d16">1</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">110</data>
   <data key="d20">0</data>
   <data key="d21">0.5617727308738426</data>
   <data key="d22">0</data>
@@ -2649,16 +2699,16 @@
 <node id="FBgn0011259">
   <data key="d0">0</data>
   <data key="d1">0.9122376506188821</data>
-  <data key="d2">2.3754810981696304</data>
+  <data key="d11">Connector_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.609315846977615</data>
+  <data key="d4">0</data>
   <data key="d5">Sema1a</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.609315846977615</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Positive</data>
+  <data key="d2">2.3754810981696304</data>
   <data key="d12">0</data>
   <data key="d13">2.3754810981696313</data>
   <data key="d14">0</data>
@@ -2666,7 +2716,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">110</data>
   <data key="d20">0</data>
   <data key="d21">4.540228792144334</data>
   <data key="d22">0</data>
@@ -2674,16 +2724,16 @@
 <node id="FBgn0259176">
   <data key="d0">0</data>
   <data key="d1">2.254376086295616</data>
-  <data key="d2">3.045483179414043</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">0.27535076384707474</data>
+  <data key="d4">0</data>
   <data key="d5">bun</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.27535076384707474</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">3.045483179414043</data>
   <data key="d12">0</data>
   <data key="d13">3.045483179414043</data>
   <data key="d14">0</data>
@@ -2691,7 +2741,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">011</data>
   <data key="d20">0</data>
   <data key="d21">0.0349451984227971</data>
   <data key="d22">1</data>
@@ -2699,16 +2749,16 @@
 <node id="FBgn0002121">
   <data key="d0">0</data>
   <data key="d1">1.3329881508719983</data>
-  <data key="d2">0.4358743720388606</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.4623428455932643</data>
+  <data key="d4">0</data>
   <data key="d5">l(2)gl</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.4623428455932643</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">0.4358743720388606</data>
   <data key="d12">0</data>
   <data key="d13">5.618166013868934</data>
   <data key="d14">0</data>
@@ -2716,74 +2766,49 @@
   <data key="d16">0</data>
   <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">5.618166013868934</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0004110">
+<node id="FBgn0023172">
   <data key="d0">0</data>
-  <data key="d1">2.3350091061154585</data>
-  <data key="d2">0.7424621202458749</data>
+  <data key="d1">1.0338693373680663</data>
+  <data key="d11">Connector_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">3.2456180847998213</data>
-  <data key="d5">tin</data>
+  <data key="d4">0</data>
+  <data key="d5">RhoGEF2</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.5110017094748198</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">5.152451959410183</data>
   <data key="d12">0</data>
-  <data key="d13">6.659383028038131</data>
+  <data key="d13">5.152451959410183</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
-  <data key="d20">1</data>
-  <data key="d21">6.659383028038131</data>
-  <data key="d22">1</data>
-</node>
-<node id="FBgn0003612">
-  <data key="d0">0</data>
-  <data key="d1">5.290170387246928</data>
-  <data key="d2">13.67126057944227</data>
-  <data key="d3">0</data>
-  <data key="d4">8.731200098998903</data>
-  <data key="d5">Su(var)2-10</data>
-  <data key="d6">1</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">13.67126057944227</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
-  <data key="d21">7.232169330307508</data>
+  <data key="d21">0.4144225063823429</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0000499">
   <data key="d0">0</data>
   <data key="d1">2.122154614958629</data>
-  <data key="d2">0.6010407640085653</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">1</data>
-  <data key="d4">0.7922505700434206</data>
+  <data key="d4">0</data>
   <data key="d5">dsh</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.7922505700434206</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.6010407640085653</data>
   <data key="d12">0</data>
   <data key="d13">0.6010407640085653</data>
   <data key="d14">0</data>
@@ -2791,7 +2816,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">1</data>
   <data key="d21">0.8556378591801984</data>
   <data key="d22">0</data>
@@ -2799,16 +2824,16 @@
 <node id="FBgn0262866">
   <data key="d0">0</data>
   <data key="d1">5.9565772837312325</data>
-  <data key="d2">1.0928746497197197</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.3254968552046273</data>
+  <data key="d4">0</data>
   <data key="d5">S6kII</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.3254968552046273</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">1.0928746497197197</data>
   <data key="d12">0</data>
   <data key="d13">5.9565772837312325</data>
   <data key="d14">1</data>
@@ -2816,49 +2841,49 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">011</data>
   <data key="d20">0</data>
   <data key="d21">0.07296136783707077</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0031610">
+<node id="FBgn0004110">
   <data key="d0">0</data>
-  <data key="d1">1.5508040060520991</data>
-  <data key="d2">0.8698944866536662</data>
+  <data key="d1">2.3350091061154585</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.477130559638421</data>
-  <data key="d5">CG15436</data>
+  <data key="d4">0</data>
+  <data key="d5">tin</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.2456180847998213</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.7424621202458749</data>
   <data key="d12">0</data>
-  <data key="d13">1.5508040060520991</data>
+  <data key="d13">6.659383028038131</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
-  <data key="d20">0</data>
-  <data key="d21">6.750482159516831</data>
-  <data key="d22">0</data>
+  <data key="d19">100</data>
+  <data key="d20">1</data>
+  <data key="d21">6.659383028038131</data>
+  <data key="d22">1</data>
 </node>
 <node id="FBgn0036136">
   <data key="d0">0</data>
   <data key="d1">10.703588433928212</data>
-  <data key="d2">13.483364543131838</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">12.01314555319835</data>
+  <data key="d4">0</data>
   <data key="d5">Ufd1-like</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">12.01314555319835</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">13.483364543131838</data>
   <data key="d12">0</data>
   <data key="d13">10.703588433928212</data>
   <data key="d14">0</data>
@@ -2866,176 +2891,51 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">010</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">11.852483682535008</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0023518">
+<node id="FBgn0029175">
   <data key="d0">1</data>
-  <data key="d1">5.316179091215694</data>
-  <data key="d2">5.79827560572969</data>
+  <data key="d1">6.399438921747852</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.11554134241763</data>
-  <data key="d5">trr</data>
+  <data key="d4">0</data>
+  <data key="d5">sotv</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">9.01613399540708</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">14.142135623730951</data>
   <data key="d12">0</data>
-  <data key="d13">5.79827560572969</data>
+  <data key="d13">14.142135623730951</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
-  <data key="d20">0</data>
-  <data key="d21">7.232169330307508</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0034970">
-  <data key="d0">0</data>
-  <data key="d1">3.9897351888086474</data>
-  <data key="d2">2.762046292415909</data>
-  <data key="d3">0</data>
-  <data key="d4">4.603873177603824</data>
-  <data key="d5">yki</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">7.059838051586918</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">1</data>
-  <data key="d18">Else</data>
-  <data key="d19">101</data>
-  <data key="d20">0</data>
-  <data key="d21">7.059838051586918</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0014011">
-  <data key="d0">0</data>
-  <data key="d1">9.600922395445838</data>
-  <data key="d2">3.9958154803973946</data>
-  <data key="d3">0</data>
-  <data key="d4">6.135677154680688</data>
-  <data key="d5">Rac2</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">9.600922395445838</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">1</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">110</data>
-  <data key="d20">0</data>
-  <data key="d21">4.81029358819883</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0001965">
-  <data key="d0">0</data>
-  <data key="d1">5.1861355713718655</data>
-  <data key="d2">4.638153208019167</data>
-  <data key="d3">0</data>
-  <data key="d4">5.561024557490197</data>
-  <data key="d5">Sos</data>
-  <data key="d6">1</data>
-  <data key="d7">0</data>
-  <data key="d8">1</data>
-  <data key="d9">1</data>
-  <data key="d10">1</data>
-  <data key="d11">Seed_Negative</data>
-  <data key="d12">1</data>
-  <data key="d13">4.638153208019167</data>
-  <data key="d14">0</data>
-  <data key="d15">1</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">111</data>
-  <data key="d20">0</data>
-  <data key="d21">6.85878489307956</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0040078">
-  <data key="d0">0</data>
-  <data key="d1">2.4410509665451494</data>
-  <data key="d2">0.3345748025591038</data>
-  <data key="d3">0</data>
-  <data key="d4">1.800100547619697</data>
-  <data key="d5">pont</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
-  <data key="d12">0</data>
-  <data key="d13">2.6246758737548377</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">100</data>
   <data key="d20">1</data>
-  <data key="d21">2.6246758737548377</data>
-  <data key="d22">0</data>
+  <data key="d21">6.506827440742437</data>
+  <data key="d22">1</data>
 </node>
-<node id="FBgn0033649">
+<node id="FBgn0003612">
   <data key="d0">0</data>
-  <data key="d1">3.9915180815383215</data>
-  <data key="d2">0.031224989991992008</data>
-  <data key="d3">0</data>
-  <data key="d4">3.2101820095188387</data>
-  <data key="d5">pyr</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">1</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
+  <data key="d1">5.290170387246928</data>
   <data key="d11">Seed_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">5.607802957026203</data>
-  <data key="d14">0</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Ligand</data>
-  <data key="d19">001</data>
-  <data key="d20">0</data>
-  <data key="d21">5.607802957026203</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0022787">
-  <data key="d0">0</data>
-  <data key="d1">1.5241100525696654</data>
-  <data key="d2">2.5883326891193095</data>
   <data key="d3">0</data>
-  <data key="d4">1.5793851642278256</data>
-  <data key="d5">Hel89B</data>
-  <data key="d6">0</data>
-  <data key="d7">1</data>
+  <data key="d4">0</data>
+  <data key="d5">Su(var)2-10</data>
+  <data key="d6">1</data>
+  <data key="d7">8.731200098998903</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">13.67126057944227</data>
   <data key="d12">0</data>
-  <data key="d13">2.5883326891193095</data>
+  <data key="d13">13.67126057944227</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
@@ -3043,22 +2943,147 @@
   <data key="d18">Else</data>
   <data key="d19">100</data>
   <data key="d20">0</data>
+  <data key="d21">7.232169330307508</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0038167">
+  <data key="d0">0</data>
+  <data key="d1">2.5904669152890563</data>
+  <data key="d11">Connector_NS</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Lkb1</data>
+  <data key="d6">0</data>
+  <data key="d7">1.9318660546349602</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">2.1366773205481544</data>
+  <data key="d12">1</data>
+  <data key="d13">1.0684539280676697</data>
+  <data key="d14">1</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">100</data>
+  <data key="d20">0</data>
+  <data key="d21">1.0684539280676697</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0001965">
+  <data key="d0">0</data>
+  <data key="d1">5.1861355713718655</data>
+  <data key="d11">Seed_Negative</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Sos</data>
+  <data key="d6">1</data>
+  <data key="d7">5.561024557490197</data>
+  <data key="d8">1</data>
+  <data key="d9">1</data>
+  <data key="d10">1</data>
+  <data key="d2">4.638153208019167</data>
+  <data key="d12">1</data>
+  <data key="d13">4.638153208019167</data>
+  <data key="d14">0</data>
+  <data key="d15">1</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">110</data>
+  <data key="d20">0</data>
+  <data key="d21">6.85878489307956</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0000046">
+  <data key="d0">0</data>
+  <data key="d1">1.5207329608539701</data>
+  <data key="d11">Seed_Positive</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Act87E</data>
+  <data key="d6">0</data>
+  <data key="d7">3.271458914632143</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">1.489237437799439</data>
+  <data key="d12">0</data>
+  <data key="d13">6.80440634524302</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">1</data>
+  <data key="d18">Else</data>
+  <data key="d19">110</data>
+  <data key="d20">0</data>
+  <data key="d21">6.80440634524302</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0033649">
+  <data key="d0">0</data>
+  <data key="d1">3.9915180815383215</data>
+  <data key="d11">Seed_Negative</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">pyr</data>
+  <data key="d6">0</data>
+  <data key="d7">3.2101820095188387</data>
+  <data key="d8">1</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">0.031224989991992008</data>
+  <data key="d12">0</data>
+  <data key="d13">5.607802957026203</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Ligand</data>
+  <data key="d19">100</data>
+  <data key="d20">0</data>
+  <data key="d21">5.607802957026203</data>
+  <data key="d22">0</data>
+</node>
+<node id="FBgn0022787">
+  <data key="d0">0</data>
+  <data key="d1">1.5241100525696654</data>
+  <data key="d11">Seed_Positive</data>
+  <data key="d3">0</data>
+  <data key="d4">1</data>
+  <data key="d5">Hel89B</data>
+  <data key="d6">0</data>
+  <data key="d7">1.5793851642278256</data>
+  <data key="d8">0</data>
+  <data key="d9">0</data>
+  <data key="d10">0</data>
+  <data key="d2">2.5883326891193095</data>
+  <data key="d12">0</data>
+  <data key="d13">2.5883326891193095</data>
+  <data key="d14">0</data>
+  <data key="d15">0</data>
+  <data key="d16">0</data>
+  <data key="d17">0</data>
+  <data key="d18">Else</data>
+  <data key="d19">111</data>
+  <data key="d20">0</data>
   <data key="d21">0.6257127509945025</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0002643">
   <data key="d0">0</data>
   <data key="d1">2.0904445613352864</data>
-  <data key="d2">4.101219330881976</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">1.5483636220580825</data>
+  <data key="d4">0</data>
   <data key="d5">mam</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.5483636220580825</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">4.101219330881976</data>
   <data key="d12">0</data>
   <data key="d13">4.101219330881976</data>
   <data key="d14">0</data>
@@ -3074,16 +3099,16 @@
 <node id="FBgn0041191">
   <data key="d0">0</data>
   <data key="d1">4.483900564215193</data>
-  <data key="d2">1.302852024724486</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.6215936450799293</data>
+  <data key="d4">0</data>
   <data key="d5">Rheb</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.6215936450799293</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">1.302852024724486</data>
   <data key="d12">0</data>
   <data key="d13">5.078028346300108</data>
   <data key="d14">1</data>
@@ -3096,44 +3121,44 @@
   <data key="d21">5.078028346300108</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0004837">
+<node id="FBgn0000042">
   <data key="d0">0</data>
-  <data key="d1">1.7648012138305325</data>
-  <data key="d2">2.1430489958577295</data>
-  <data key="d3">1</data>
-  <data key="d4">0.44857178005471426</data>
-  <data key="d5">Su(H)</data>
+  <data key="d1">6.719702016102843</data>
+  <data key="d11">Seed_Negative</data>
+  <data key="d3">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Act5C</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">5.0100580570583615</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">3.50017856687341</data>
   <data key="d12">0</data>
-  <data key="d13">2.1430489958577295</data>
+  <data key="d13">6.719702016102843</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
-  <data key="d17">0</data>
+  <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">101</data>
   <data key="d20">0</data>
-  <data key="d21">1.7239631221913396</data>
+  <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0026181">
   <data key="d0">0</data>
   <data key="d1">2.679620530263489</data>
-  <data key="d2">2.8455049633132954</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">2.488559190621539</data>
+  <data key="d4">0</data>
   <data key="d5">Rok</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">2.488559190621539</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">2.8455049633132954</data>
   <data key="d12">0</data>
   <data key="d13">2.8455049633132954</data>
   <data key="d14">0</data>
@@ -3141,7 +3166,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">1.9405520782878327</data>
   <data key="d22">1</data>
@@ -3149,16 +3174,16 @@
 <node id="FBgn0004858">
   <data key="d0">0</data>
   <data key="d1">1.1807951601819593</data>
-  <data key="d2">2.4395183950935886</data>
+  <data key="d11">Seed_Positive</data>
   <data key="d3">1</data>
-  <data key="d4">1.689249954332183</data>
+  <data key="d4">0</data>
   <data key="d5">elB</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.689249954332183</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Positive</data>
+  <data key="d2">2.4395183950935886</data>
   <data key="d12">0</data>
   <data key="d13">2.4395183950935886</data>
   <data key="d14">0</data>
@@ -3166,74 +3191,49 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">3.80902662808492</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0023172">
+<node id="FBgn0016917">
   <data key="d0">0</data>
-  <data key="d1">1.0338693373680663</data>
-  <data key="d2">5.152451959410183</data>
+  <data key="d1">5.017935001838216</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">1.5110017094748198</data>
-  <data key="d5">RhoGEF2</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d4">0</data>
+  <data key="d5">Stat92E</data>
+  <data key="d6">1</data>
+  <data key="d7">6.972924598446123</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Positive</data>
+  <data key="d2">4.048355110965144</data>
   <data key="d12">0</data>
-  <data key="d13">5.152451959410183</data>
+  <data key="d13">10.703588433928212</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
-  <data key="d21">0.4144225063823429</data>
-  <data key="d22">0</data>
-</node>
-<node id="FBgn0021796">
-  <data key="d0">0</data>
-  <data key="d1">6.7036285967852045</data>
-  <data key="d2">11.55324629703704</data>
-  <data key="d3">0</data>
-  <data key="d4">8.630429036742836</data>
-  <data key="d5">Tor</data>
-  <data key="d6">0</data>
-  <data key="d7">0</data>
-  <data key="d8">0</data>
-  <data key="d9">0</data>
-  <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
-  <data key="d12">0</data>
-  <data key="d13">11.55324629703704</data>
-  <data key="d14">1</data>
-  <data key="d15">0</data>
-  <data key="d16">0</data>
-  <data key="d17">0</data>
-  <data key="d18">Else</data>
-  <data key="d19">111</data>
-  <data key="d20">0</data>
-  <data key="d21">7.634412216406263</data>
+  <data key="d21">11.852483682535008</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0035213">
   <data key="d0">0</data>
   <data key="d1">5.630507774707991</data>
-  <data key="d2">13.009530304821459</data>
+  <data key="d11">Connector_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">8.630418377844899</data>
+  <data key="d4">0</data>
   <data key="d5">CG2199</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.630418377844899</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Negative</data>
+  <data key="d2">13.009530304821459</data>
   <data key="d12">0</data>
   <data key="d13">13.009530304821462</data>
   <data key="d14">0</data>
@@ -3241,7 +3241,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">7.2512170540052505</data>
   <data key="d22">0</data>
@@ -3249,16 +3249,16 @@
 <node id="FBgn0014343">
   <data key="d0">1</data>
   <data key="d1">3.265787521258628</data>
-  <data key="d2">0.8329556707348313</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">3.148273866321436</data>
+  <data key="d4">0</data>
   <data key="d5">mirr</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">3.148273866321436</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">0.8329556707348313</data>
   <data key="d12">0</data>
   <data key="d13">5.3460784069708485</data>
   <data key="d14">0</data>
@@ -3266,49 +3266,49 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">001</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">5.3460784069708485</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0261014">
+<node id="FBgn0030530">
   <data key="d0">0</data>
-  <data key="d1">0.5979463201176716</data>
-  <data key="d2">0.2811655278551305</data>
+  <data key="d1">6.406130286276985</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">0.41393836664096834</data>
-  <data key="d5">TER94</data>
+  <data key="d4">0</data>
+  <data key="d5">jub</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.322378810693401</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">0.28632851181509855</data>
   <data key="d12">0</data>
-  <data key="d13">0.2811655278551308</data>
+  <data key="d13">6.274677633988119</data>
   <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
-  <data key="d17">0</data>
+  <data key="d17">1</data>
   <data key="d18">Else</data>
-  <data key="d19">100</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
-  <data key="d21">0.925034307660364</data>
+  <data key="d21">6.274677633988119</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0040296">
   <data key="d0">0</data>
   <data key="d1">6.719702016102843</data>
-  <data key="d2">14.142135623730951</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">8.557377076010875</data>
+  <data key="d4">0</data>
   <data key="d5">Ocho</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">8.557377076010875</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">14.142135623730951</data>
   <data key="d12">0</data>
   <data key="d13">6.719702016102843</data>
   <data key="d14">0</data>
@@ -3316,7 +3316,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">110</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
   <data key="d21">4.81029358819883</data>
   <data key="d22">0</data>
@@ -3324,16 +3324,16 @@
 <node id="FBgn0024846">
   <data key="d0">0</data>
   <data key="d1">0.10252190114260959</data>
-  <data key="d2">1.0284824296940291</data>
+  <data key="d11">Connector_NS</data>
   <data key="d3">0</data>
-  <data key="d4">1.6985598052972621</data>
+  <data key="d4">0</data>
   <data key="d5">p38b</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">1.6985598052972621</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">1</data>
-  <data key="d11">Connector_NS</data>
+  <data key="d2">1.0284824296940291</data>
   <data key="d12">1</data>
   <data key="d13">1.0284824296940296</data>
   <data key="d14">0</data>
@@ -3341,7 +3341,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">001</data>
   <data key="d20">0</data>
   <data key="d21">3.964675085055148</data>
   <data key="d22">0</data>
@@ -3349,16 +3349,16 @@
 <node id="FBgn0015268">
   <data key="d0">0</data>
   <data key="d1">0.6672734296965319</data>
-  <data key="d2">2.3118054512532926</data>
+  <data key="d11">Connector_Positive</data>
   <data key="d3">0</data>
-  <data key="d4">0.9016457345029618</data>
+  <data key="d4">0</data>
   <data key="d5">Nap1</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">0.9016457345029618</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_Positive</data>
+  <data key="d2">2.3118054512532926</data>
   <data key="d12">0</data>
   <data key="d13">2.311805451253295</data>
   <data key="d14">0</data>
@@ -3366,49 +3366,49 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">010</data>
   <data key="d20">0</data>
   <data key="d21">1.0604051819521247</data>
   <data key="d22">0</data>
 </node>
-<node id="FBgn0038167">
-  <data key="d0">0</data>
-  <data key="d1">2.5904669152890563</data>
-  <data key="d2">2.1366773205481544</data>
+<node id="FBgn0261988">
+  <data key="d0">1</data>
+  <data key="d1">8.239452366195215</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">1.9318660546349602</data>
-  <data key="d5">Lkb1</data>
+  <data key="d4">0</data>
+  <data key="d5">Gprk2</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">4.7176427791085525</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Connector_NS</data>
-  <data key="d12">1</data>
-  <data key="d13">1.0684539280676697</data>
-  <data key="d14">1</data>
+  <data key="d2">0.4945674294988064</data>
+  <data key="d12">0</data>
+  <data key="d13">5.4189085416316365</data>
+  <data key="d14">0</data>
   <data key="d15">0</data>
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">111</data>
   <data key="d20">0</data>
-  <data key="d21">1.0684539280676697</data>
+  <data key="d21">5.4189085416316365</data>
   <data key="d22">0</data>
 </node>
 <node id="FBgn0011692">
   <data key="d0">1</data>
   <data key="d1">4.633510500247284</data>
-  <data key="d2">8.433676166190164</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">0</data>
-  <data key="d4">6.217125940513109</data>
+  <data key="d4">0</data>
   <data key="d5">pav</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">6.217125940513109</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">8.433676166190164</data>
   <data key="d12">0</data>
   <data key="d13">5.584191155101881</data>
   <data key="d14">0</data>
@@ -3416,7 +3416,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">101</data>
+  <data key="d19">100</data>
   <data key="d20">0</data>
   <data key="d21">5.584191155101881</data>
   <data key="d22">0</data>
@@ -3424,16 +3424,16 @@
 <node id="FBgn0020496">
   <data key="d0">0</data>
   <data key="d1">5.290170387246928</data>
-  <data key="d2">6.305803799666508</data>
+  <data key="d11">Seed_Negative</data>
   <data key="d3">1</data>
-  <data key="d4">6.094142600424135</data>
+  <data key="d4">0</data>
   <data key="d5">CtBP</data>
   <data key="d6">0</data>
-  <data key="d7">0</data>
+  <data key="d7">6.094142600424135</data>
   <data key="d8">0</data>
   <data key="d9">0</data>
   <data key="d10">0</data>
-  <data key="d11">Seed_Negative</data>
+  <data key="d2">6.305803799666508</data>
   <data key="d12">0</data>
   <data key="d13">6.305803799666508</data>
   <data key="d14">0</data>
@@ -3441,7 +3441,7 @@
   <data key="d16">0</data>
   <data key="d17">0</data>
   <data key="d18">Else</data>
-  <data key="d19">111</data>
+  <data key="d19">100</data>
   <data key="d20">1</data>
   <data key="d21">6.686453614358968</data>
   <data key="d22">0</data>
@@ -3451,9 +3451,8 @@
 <edge source="FBgn0003090" target="FBgn0015838"/>
 <edge source="FBgn0003090" target="FBgn0262029"/>
 <edge source="FBgn0003090" target="FBgn0000499"/>
-<edge source="FBgn0004647" target="FBgn0039234"/>
 <edge source="FBgn0004647" target="FBgn0041627"/>
-<edge source="FBgn0004647" target="FBgn0010825"/>
+<edge source="FBgn0004647" target="FBgn0039234"/>
 <edge source="FBgn0004647" target="FBgn0002973"/>
 <edge source="FBgn0004647" target="FBgn0259984"/>
 <edge source="FBgn0004647" target="FBgn0262614"/>
@@ -3463,30 +3462,34 @@
 <edge source="FBgn0004647" target="FBgn0003124"/>
 <edge source="FBgn0004647" target="FBgn0004837"/>
 <edge source="FBgn0004647" target="FBgn0002121"/>
+<edge source="FBgn0004647" target="FBgn0005777"/>
 <edge source="FBgn0004647" target="FBgn0039044"/>
 <edge source="FBgn0004647" target="FBgn0000499"/>
 <edge source="FBgn0004647" target="FBgn0000117"/>
-<edge source="FBgn0004647" target="FBgn0005777"/>
+<edge source="FBgn0004647" target="FBgn0010825"/>
 <edge source="FBgn0262614" target="FBgn0005777"/>
-<edge source="FBgn0030530" target="FBgn0004638"/>
-<edge source="FBgn0030530" target="FBgn0034970"/>
-<edge source="FBgn0030530" target="FBgn0262029"/>
+<edge source="FBgn0031610" target="FBgn0260632"/>
+<edge source="FBgn0031610" target="FBgn0037218"/>
 <edge source="FBgn0010341" target="FBgn0030018"/>
 <edge source="FBgn0261617" target="FBgn0260632"/>
-<edge source="FBgn0261617" target="FBgn0014179"/>
-<edge source="FBgn0261617" target="FBgn0025674"/>
-<edge source="FBgn0261617" target="FBgn0023518"/>
-<edge source="FBgn0261617" target="FBgn0024291"/>
 <edge source="FBgn0261617" target="FBgn0028509"/>
+<edge source="FBgn0261617" target="FBgn0025674"/>
 <edge source="FBgn0261617" target="FBgn0000117"/>
+<edge source="FBgn0261617" target="FBgn0024291"/>
+<edge source="FBgn0261617" target="FBgn0014179"/>
+<edge source="FBgn0261617" target="FBgn0023518"/>
 <edge source="FBgn0261617" target="FBgn0000546"/>
-<edge source="FBgn0025638" target="FBgn0036136"/>
 <edge source="FBgn0025638" target="FBgn0261014"/>
+<edge source="FBgn0025638" target="FBgn0036136"/>
 <edge source="FBgn0039102" target="FBgn0004177"/>
 <edge source="FBgn0039044" target="FBgn0021944"/>
 <edge source="FBgn0039044" target="FBgn0003612"/>
-<edge source="FBgn0039044" target="FBgn0034970"/>
 <edge source="FBgn0039044" target="FBgn0024291"/>
+<edge source="FBgn0039044" target="FBgn0034970"/>
+<edge source="FBgn0003430" target="FBgn0001139"/>
+<edge source="FBgn0003430" target="FBgn0260632"/>
+<edge source="FBgn0003430" target="FBgn0003867"/>
+<edge source="FBgn0003430" target="FBgn0035213"/>
 <edge source="FBgn0086785" target="FBgn0003444"/>
 <edge source="FBgn0086785" target="FBgn0027619"/>
 <edge source="FBgn0261885" target="FBgn0034970"/>
@@ -3502,7 +3505,6 @@
 <edge source="FBgn0015838" target="FBgn0001624"/>
 <edge source="FBgn0014179" target="FBgn0004177"/>
 <edge source="FBgn0014179" target="FBgn0003612"/>
-<edge source="FBgn0003867" target="FBgn0003430"/>
 <edge source="FBgn0011274" target="FBgn0260632"/>
 <edge source="FBgn0015799" target="FBgn0263396"/>
 <edge source="FBgn0043903" target="FBgn0030904"/>
@@ -3518,26 +3520,29 @@
 <edge source="FBgn0037351" target="FBgn0020386"/>
 <edge source="FBgn0037351" target="FBgn0261592"/>
 <edge source="FBgn0011642" target="FBgn0262029"/>
+<edge source="FBgn0003444" target="FBgn0003892"/>
+<edge source="FBgn0003444" target="FBgn0004177"/>
+<edge source="FBgn0003444" target="FBgn0000352"/>
+<edge source="FBgn0003444" target="FBgn0261988"/>
+<edge source="FBgn0003444" target="FBgn0031450"/>
 <edge source="FBgn0000117" target="FBgn0023172"/>
 <edge source="FBgn0000117" target="FBgn0003396"/>
 <edge source="FBgn0000117" target="FBgn0000499"/>
 <edge source="FBgn0000117" target="FBgn0003607"/>
 <edge source="FBgn0000117" target="FBgn0040078"/>
-<edge source="FBgn0003396" target="FBgn0086613"/>
-<edge source="FBgn0003396" target="FBgn0005777"/>
-<edge source="FBgn0003396" target="FBgn0020496"/>
-<edge source="FBgn0003396" target="FBgn0001139"/>
+<edge source="FBgn0037874" target="FBgn0045035"/>
+<edge source="FBgn0037874" target="FBgn0010379"/>
+<edge source="FBgn0037874" target="FBgn0041191"/>
 <edge source="FBgn0027619" target="FBgn0036790"/>
 <edge source="FBgn0005355" target="FBgn0000352"/>
-<edge source="FBgn0000352" target="FBgn0003444"/>
 <edge source="FBgn0000352" target="FBgn0003892"/>
 <edge source="FBgn0039234" target="FBgn0033378"/>
 <edge source="FBgn0024248" target="FBgn0026379"/>
-<edge source="FBgn0000635" target="FBgn0001624"/>
-<edge source="FBgn0000635" target="FBgn0015282"/>
 <edge source="FBgn0000635" target="FBgn0010825"/>
-<edge source="FBgn0000635" target="FBgn0001965"/>
+<edge source="FBgn0000635" target="FBgn0015282"/>
 <edge source="FBgn0000635" target="FBgn0261592"/>
+<edge source="FBgn0000635" target="FBgn0001965"/>
+<edge source="FBgn0000635" target="FBgn0001624"/>
 <edge source="FBgn0020386" target="FBgn0015282"/>
 <edge source="FBgn0020386" target="FBgn0002174"/>
 <edge source="FBgn0020386" target="FBgn0010909"/>
@@ -3551,16 +3556,14 @@
 <edge source="FBgn0036790" target="FBgn0036196"/>
 <edge source="FBgn0036790" target="FBgn0004177"/>
 <edge source="FBgn0036790" target="FBgn0020496"/>
-<edge source="FBgn0260632" target="FBgn0031610"/>
-<edge source="FBgn0260632" target="FBgn0003430"/>
 <edge source="FBgn0260632" target="FBgn0004638"/>
 <edge source="FBgn0260632" target="FBgn0020496"/>
 <edge source="FBgn0015282" target="FBgn0001169"/>
-<edge source="FBgn0015282" target="FBgn0261014"/>
 <edge source="FBgn0015282" target="FBgn0026379"/>
 <edge source="FBgn0015282" target="FBgn0029175"/>
 <edge source="FBgn0015282" target="FBgn0004177"/>
 <edge source="FBgn0015282" target="FBgn0010379"/>
+<edge source="FBgn0015282" target="FBgn0261014"/>
 <edge source="FBgn0044028" target="FBgn0005777"/>
 <edge source="FBgn0001624" target="FBgn0002121"/>
 <edge source="FBgn0001624" target="FBgn0000499"/>
@@ -3573,51 +3576,57 @@
 <edge source="FBgn0025800" target="FBgn0000546"/>
 <edge source="FBgn0000047" target="FBgn0011726"/>
 <edge source="FBgn0023169" target="FBgn0038167"/>
-<edge source="FBgn0004177" target="FBgn0015268"/>
 <edge source="FBgn0004177" target="FBgn0044323"/>
 <edge source="FBgn0004177" target="FBgn0261854"/>
 <edge source="FBgn0004177" target="FBgn0041191"/>
-<edge source="FBgn0004177" target="FBgn0003444"/>
 <edge source="FBgn0004177" target="FBgn0002121"/>
 <edge source="FBgn0004177" target="FBgn0024846"/>
+<edge source="FBgn0004177" target="FBgn0015268"/>
 <edge source="FBgn0010825" target="FBgn0005777"/>
 <edge source="FBgn0010825" target="FBgn0000042"/>
 <edge source="FBgn0044323" target="FBgn0010909"/>
 <edge source="FBgn0259984" target="FBgn0011726"/>
 <edge source="FBgn0261854" target="FBgn0003041"/>
 <edge source="FBgn0261854" target="FBgn0002973"/>
-<edge source="FBgn0003430" target="FBgn0001139"/>
-<edge source="FBgn0003430" target="FBgn0035213"/>
-<edge source="FBgn0000046" target="FBgn0040078"/>
+<edge source="FBgn0260945" target="FBgn0028509"/>
+<edge source="FBgn0260945" target="FBgn0021796"/>
+<edge source="FBgn0040078" target="FBgn0086613"/>
+<edge source="FBgn0040078" target="FBgn0021796"/>
+<edge source="FBgn0040078" target="FBgn0000046"/>
 <edge source="FBgn0004638" target="FBgn0010909"/>
-<edge source="FBgn0004638" target="FBgn0001965"/>
 <edge source="FBgn0004638" target="FBgn0032006"/>
-<edge source="FBgn0003892" target="FBgn0003444"/>
+<edge source="FBgn0004638" target="FBgn0001965"/>
+<edge source="FBgn0004638" target="FBgn0030530"/>
 <edge source="FBgn0003892" target="FBgn0028509"/>
 <edge source="FBgn0003892" target="FBgn0002174"/>
 <edge source="FBgn0003892" target="FBgn0025674"/>
 <edge source="FBgn0003892" target="FBgn0000546"/>
-<edge source="FBgn0016917" target="FBgn0003612"/>
+<edge source="FBgn0023518" target="FBgn0034970"/>
+<edge source="FBgn0023518" target="FBgn0011259"/>
+<edge source="FBgn0023518" target="FBgn0000546"/>
+<edge source="FBgn0003984" target="FBgn0005777"/>
 <edge source="FBgn0027535" target="FBgn0086613"/>
 <edge source="FBgn0027535" target="FBgn0029175"/>
-<edge source="FBgn0260945" target="FBgn0028509"/>
-<edge source="FBgn0260945" target="FBgn0021796"/>
 <edge source="FBgn0005198" target="FBgn0010909"/>
 <edge source="FBgn0005198" target="FBgn0023172"/>
 <edge source="FBgn0005198" target="FBgn0021796"/>
 <edge source="FBgn0005198" target="FBgn0261592"/>
 <edge source="FBgn0005198" target="FBgn0015268"/>
 <edge source="FBgn0021874" target="FBgn0010379"/>
+<edge source="FBgn0262029" target="FBgn0030530"/>
+<edge source="FBgn0261014" target="FBgn0014011"/>
+<edge source="FBgn0261014" target="FBgn0010379"/>
 <edge source="FBgn0002174" target="FBgn0010379"/>
 <edge source="FBgn0010909" target="FBgn0262866"/>
 <edge source="FBgn0010909" target="FBgn0030018"/>
-<edge source="FBgn0031450" target="FBgn0003444"/>
+<edge source="FBgn0014011" target="FBgn0003041"/>
 <edge source="FBgn0031450" target="FBgn0020496"/>
 <edge source="FBgn0025674" target="FBgn0010379"/>
 <edge source="FBgn0025674" target="FBgn0000259"/>
 <edge source="FBgn0001169" target="FBgn0004837"/>
 <edge source="FBgn0001169" target="FBgn0001139"/>
 <edge source="FBgn0001169" target="FBgn0020496"/>
+<edge source="FBgn0004837" target="FBgn0002643"/>
 <edge source="FBgn0014020" target="FBgn0026181"/>
 <edge source="FBgn0014020" target="FBgn0023172"/>
 <edge source="FBgn0014020" target="FBgn0030018"/>
@@ -3628,53 +3637,44 @@
 <edge source="FBgn0264492" target="FBgn0003607"/>
 <edge source="FBgn0264492" target="FBgn0004858"/>
 <edge source="FBgn0264492" target="FBgn0000259"/>
-<edge source="FBgn0010504" target="FBgn0035640"/>
 <edge source="FBgn0000546" target="FBgn0034970"/>
-<edge source="FBgn0000546" target="FBgn0023518"/>
 <edge source="FBgn0000546" target="FBgn0010379"/>
+<edge source="FBgn0026250" target="FBgn0035213"/>
 <edge source="FBgn0035640" target="FBgn0028509"/>
 <edge source="FBgn0035640" target="FBgn0036136"/>
+<edge source="FBgn0035640" target="FBgn0010504"/>
 <edge source="FBgn0086613" target="FBgn0026181"/>
+<edge source="FBgn0086613" target="FBgn0003396"/>
 <edge source="FBgn0086613" target="FBgn0003607"/>
 <edge source="FBgn0086613" target="FBgn0001965"/>
-<edge source="FBgn0086613" target="FBgn0040078"/>
 <edge source="FBgn0001235" target="FBgn0034970"/>
-<edge source="FBgn0037218" target="FBgn0031610"/>
 <edge source="FBgn0000259" target="FBgn0262866"/>
 <edge source="FBgn0023540" target="FBgn0020496"/>
-<edge source="FBgn0261988" target="FBgn0003444"/>
-<edge source="FBgn0261988" target="FBgn0261592"/>
+<edge source="FBgn0021796" target="FBgn0011259"/>
 <edge source="FBgn0032006" target="FBgn0005777"/>
-<edge source="FBgn0003984" target="FBgn0005777"/>
+<edge source="FBgn0005777" target="FBgn0003396"/>
 <edge source="FBgn0005777" target="FBgn0022787"/>
 <edge source="FBgn0005777" target="FBgn0035213"/>
-<edge source="FBgn0037874" target="FBgn0045035"/>
-<edge source="FBgn0037874" target="FBgn0041191"/>
-<edge source="FBgn0037874" target="FBgn0010379"/>
+<edge source="FBgn0034970" target="FBgn0259176"/>
+<edge source="FBgn0034970" target="FBgn0030530"/>
+<edge source="FBgn0003396" target="FBgn0020496"/>
+<edge source="FBgn0003396" target="FBgn0001139"/>
 <edge source="FBgn0001139" target="FBgn0004858"/>
 <edge source="FBgn0001139" target="FBgn0004110"/>
 <edge source="FBgn0001139" target="FBgn0020496"/>
-<edge source="FBgn0003041" target="FBgn0014011"/>
 <edge source="FBgn0261592" target="FBgn0262866"/>
+<edge source="FBgn0261592" target="FBgn0261988"/>
 <edge source="FBgn0261592" target="FBgn0041191"/>
-<edge source="FBgn0010379" target="FBgn0015268"/>
-<edge source="FBgn0010379" target="FBgn0261014"/>
 <edge source="FBgn0010379" target="FBgn0028509"/>
-<edge source="FBgn0029175" target="FBgn0041627"/>
-<edge source="FBgn0026250" target="FBgn0035213"/>
+<edge source="FBgn0010379" target="FBgn0015268"/>
+<edge source="FBgn0041627" target="FBgn0029175"/>
 <edge source="FBgn0045035" target="FBgn0011259"/>
 <edge source="FBgn0003607" target="FBgn0003612"/>
-<edge source="FBgn0011259" target="FBgn0023518"/>
-<edge source="FBgn0011259" target="FBgn0021796"/>
 <edge source="FBgn0011259" target="FBgn0011692"/>
 <edge source="FBgn0011259" target="FBgn0022787"/>
-<edge source="FBgn0259176" target="FBgn0034970"/>
-<edge source="FBgn0000499" target="FBgn0023172"/>
-<edge source="FBgn0023518" target="FBgn0034970"/>
-<edge source="FBgn0014011" target="FBgn0261014"/>
-<edge source="FBgn0040078" target="FBgn0021796"/>
-<edge source="FBgn0002643" target="FBgn0004837"/>
+<edge source="FBgn0023172" target="FBgn0000499"/>
+<edge source="FBgn0003612" target="FBgn0016917"/>
+<edge source="FBgn0038167" target="FBgn0011692"/>
 <edge source="FBgn0004858" target="FBgn0035213"/>
 <edge source="FBgn0015268" target="FBgn0020496"/>
-<edge source="FBgn0038167" target="FBgn0011692"/>
 </graph></graphml>
